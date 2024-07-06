@@ -1,7 +1,10 @@
+packwiz.exe
+
 # Exclude exported CurseForge zip files
 *.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-packwiz.exe
+!quiet-minecarts.zip
+!VanillaTweaks.zip

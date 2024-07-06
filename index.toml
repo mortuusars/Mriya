@@ -1558,6 +1558,11 @@ hash = "8959e560fb3c49ef11b4fe569d55ad306c99e716c48bf535bc5b5eb4ad84c0a9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/low-shield.pw.toml"
+hash = "202155285572061f175ffdb001ad4b28d993262e43c54f5a70c3eea4c66d447e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lower_shield_1.14-1.20.4.zip"
 hash = "b274613c00961e674169871491ebae9c30c4987f3d807da012faceed69d5c7e1"
 
