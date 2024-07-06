@@ -1,0 +1,13 @@
+name = "Scholar"
+filename = "scholar-1.20.1-1.0.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fb3112b979da6a5ba35bfdd45c46e956d14bcb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5214379
+project-id = 961802

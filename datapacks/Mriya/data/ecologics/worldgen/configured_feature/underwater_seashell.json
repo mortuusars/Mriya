@@ -1,0 +1,63 @@
+{
+    "type": "minecraft:replace_single_block",
+    "config": {
+        "targets": [
+            {
+                "target": {
+                    "predicate_type": "random_block_match",
+                    "block": "minecraft:water",
+                    "probability": 0.25
+                },
+                "state": {
+                    "Name": "ecologics:seashell",
+                    "Properties": {
+                        "facing": "north",
+                        "waterlogged": "true"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "random_block_match",
+                    "block": "minecraft:water",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "ecologics:seashell",
+                    "Properties": {
+                        "facing": "east",
+                        "waterlogged": "true"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "random_block_match",
+                    "block": "minecraft:water",
+                    "probability": 0.75
+                },
+                "state": {
+                    "Name": "ecologics:seashell",
+                    "Properties": {
+                        "facing": "south",
+                        "waterlogged": "true"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "random_block_match",
+                    "block": "minecraft:water",
+                    "probability": 1
+                },
+                "state": {
+                    "Name": "ecologics:seashell",
+                    "Properties": {
+                        "facing": "east",
+                        "waterlogged": "true"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "chance": 0.75,
+              "condition": "minecraft:random_chance"
+            }
+          ],
+          "name": "spelunkery:salt"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "salt:cauldron_evaporation/salt_level_1"
+}

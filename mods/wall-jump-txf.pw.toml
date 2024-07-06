@@ -1,0 +1,13 @@
+name = "Wall-Jump TXF (Neo/Forge/Fabric)"
+filename = "walljump-1.20.1-1.2.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98172df4b10578f5255991fb3ee4bc9192beefdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5481421
+project-id = 909143

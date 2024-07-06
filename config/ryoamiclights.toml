@@ -1,0 +1,198 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				panda = true
+				axolotl = true
+				bee = true
+				egg = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				allay = true
+				skeleton = true
+				llama = true
+				husk = true
+				bat = true
+				frog = true
+				hoglin = true
+				camel = true
+				rabbit = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				wandering_trader = true
+				wither_skeleton = true
+				piglin_brute = true
+				ocelot = true
+				horse = true
+				phantom = true
+				llama_spit = true
+				glow_squid = true
+				squid = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				chicken = true
+				trader_llama = true
+				donkey = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				zombified_piglin = true
+				piglin = true
+				blaze = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				sheep = true
+				fireball = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				wolf = true
+				villager = true
+				fishing_bobber = true
+				zombie_villager = true
+				elder_guardian = true
+				boat = true
+				small_fireball = true
+				strider = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+				goat = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				bamboo_creeper = true
+				jungle_creeper = true
+				cave_creeper = true
+				savannah_creeper = true
+				spruce_creeper = true
+				hills_creeper = true
+				snowy_creeper = true
+				badlands_creeper = true
+				ocean_creeper = true
+				dark_oak_creeper = true
+				desert_creeper = true
+				dripstone_creeper = true
+
+			[light_sources.settings.entities.netherdepthsupgrade]
+				lava_pufferfish = true
+				glowdine = true
+				bonefish = true
+				obsidianfish = true
+				fortressgrouper = true
+				magmacubefish = true
+				searing_cod = true
+
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				snail = true
+				rhino = true
+				bluejay = true
+				snake = true
+				robin = true
+				dragonfly = true
+				duck_egg = true
+				tortoise = true
+				butterfly = true
+				duck = true
+				bear = true
+				sparrow = true
+				lizard = true
+				rattlesnake = true
+				zebra = true
+				canary = true
+				firefly = true
+				coral_snake = true
+				cardinal = true
+				lion = true
+				vulture = true
+				bass = true
+				giraffe = true
+				elephant = true
+				finch = true
+
+			[light_sources.settings.entities.aquaculture]
+				tuna = true
+				jellyfish = true
+				bluegill = true
+				muskellunge = true
+				catfish = true
+				tambaqui = true
+				boulti = true
+				rainbow_trout = true
+				gar = true
+				perch = true
+				capitaine = true
+				arrau_turtle = true
+				atlantic_halibut = true
+				piranha = true
+				red_grouper = true
+				arapaima = true
+				box_turtle = true
+				bayad = true
+				atlantic_herring = true
+				carp = true
+				brown_trout = true
+				synodontis = true
+				smallmouth_bass = true
+				minnow = true
+				bobber = true
+
+			[light_sources.settings.entities.spelunkery]
+				dust_bunny = true
+
+			[light_sources.settings.entities.astikorcarts]
+				plow = true
+
+			[light_sources.settings.entities.goblintraders]
+				vein_goblin_trader = true
+				goblin_trader = true
+
+			[light_sources.settings.entities.exposure]
+				photograph_frame = true
+
+			[light_sources.settings.entities.upgrade_aquatic]
+				thrasher = true
+				lionfish = true
+				nautilus = true
+
+			[light_sources.settings.entities.quark]
+				torch_arrow = true
+				shiba = true
+				forgotten = true
+				toretoise = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+				coconut_crab = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				super_glue = true
+				carriage_contraption = true
+
+			[light_sources.settings.entities.corpse]
+				corpse = true
+

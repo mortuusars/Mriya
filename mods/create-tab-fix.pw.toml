@@ -1,0 +1,13 @@
+name = "Create Tab Fix"
+filename = "create_tab_fix-1.0.0+forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/boqLQE5z/versions/y13CrO9L/create_tab_fix-1.0.0%2Bforge-1.20.1.jar"
+hash-format = "sha1"
+hash = "ecbde49afc5e9ce23c8d2794848864cba6c987df"
+
+[update]
+[update.modrinth]
+mod-id = "boqLQE5z"
+version = "y13CrO9L"

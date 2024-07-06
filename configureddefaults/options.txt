@@ -1,0 +1,20 @@
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","spelunkery:better_vanilla_gems","spelunkery:unlit_redstone_ores","file/quiet-minecarts.zip","file/lower_shield_1.14-1.20.4.zip","file/VanillaTweaks.zip","file/Soft-Weather-1.0-1.20.zip","file/LowOnFire_1.20.1.zip","file/Create Simple Storage 2.1.zip","file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip","file/Mriya"]
+incompatibleResourcePacks:["file/quiet-minecarts.zip","file/lower_shield_1.14-1.20.4.zip","file/Create Simple Storage 2.1.zip"]
+autoJump:false
+enableVsync:false
+maxFps:260
+darkMojangStudiosBackground:true
+fov:0.5
+biomeBlendRadius:3
+narrator:0
+
+key_key.sethorse.desc:key.keyboard.p
+key_key.callhorse.desc:key.keyboard.h
+key_key.showstats.desc:key.keyboard.unknown
+
+key_key.spyglass-improvements.use:key.keyboard.z
+
+key_key.personality.crawl:key.keyboard.c
+key_key.personality.sit:key.keyboard.unknown
+
+key_key.walljump.walljump:key.keyboard.left.shift

@@ -1,0 +1,41 @@
+{
+    "feature": "ecologics:underwater_seashell",
+    "placement": [
+      {
+          "type": "minecraft:count",
+          "count": 2
+      },
+      {
+        "type": "minecraft:rarity_filter",
+        "chance": 2
+      },
+      {
+        "type": "minecraft:in_square"
+      },
+      {
+        "type": "minecraft:heightmap",
+        "heightmap": "OCEAN_FLOOR"
+      },
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "minecraft:matching_fluids",
+          "fluids": "minecraft:water"
+        }
+      },
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "not",
+          "predicate": {
+            "type": "minecraft:matching_fluids",
+            "offset": [0, -1, 0],
+            "fluids": "minecraft:water"
+          }
+        }
+      },
+      {
+        "type": "minecraft:biome"
+      }
+    ]
+  }

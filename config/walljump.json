@@ -1,0 +1,15 @@
+{
+  "allowReClinging": false,
+  "autoRotation": false,
+  "enableEnchantments": false,
+  "exhaustionWallJump": 0.8,
+  "minFallDistance": 3,
+  "elytraSpeedBoost": 0.0,
+  "sprintSpeedBoost": 0.0,
+  "stepAssist": true,
+  "useDoubleJump": false,
+  "useWallJump": true,
+  "wallJumpHeight": 0.38,
+  "wallSlideDelay": 10,
+  "playFallSound": true
+}
