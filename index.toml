@@ -818,7 +818,7 @@ hash = "78abc6c68c4cfa2e119d05576d88422492c9a0ca2104a5a762d563edbf118196"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "999d8a8e03dc9fc40fc7667fd58ca3b1ffa5483b2154392495492fb40a735c80"
+hash = "cfc6bde15726b4833c195fc6ca81843d157526037e160d04aeb3c872fbc0f030"
 
 [[files]]
 file = "kubejs/server_scripts/constants/advancement.js"
@@ -918,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "a96886fe12b0156b383437c664125ca8989e7c972728a37e2ac36b35dcf29bec"
+metafile = true
+
+[[files]]
+file = "mods/berry-good.pw.toml"
+hash = "ebbde8e5cd1fc05113f61fb32d98277292474aef5a2cb6892e3b263c9130002d"
 metafile = true
 
 [[files]]
@@ -1158,6 +1163,11 @@ metafile = true
 [[files]]
 file = "mods/grass-overhaul.pw.toml"
 hash = "df3f2e1b106bb3effe805c8828308a7dfd5f8cd20bed727846912a26c918cc09"
+metafile = true
+
+[[files]]
+file = "mods/heyberryshutup.pw.toml"
+hash = "97a18e9252a5cbd90ff324ec98a3ce39bf8c9f8c139c4a3fe3112a241413096d"
 metafile = true
 
 [[files]]
