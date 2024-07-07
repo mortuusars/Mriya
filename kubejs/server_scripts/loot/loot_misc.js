@@ -67,8 +67,8 @@ function wares(event) {
                 // Move Zinc ingots and similar stuff to "We can resell it" agreement.
                 LootEntry.of(Item.of('wares:sealed_delivery_agreement', 
                     '{message:\'{"text":"Low supplies. Need to restock. Payment guaranteed."}\', requested:"mriya:wares/pillager/requested_goods", payment:"mriya:wares/pillager/payment_emeralds"}'))
-                    .when((c) => c.randomChance(0.1)),
+                    .when((c) => c.randomChance(0.05)),
                 LootEntry.of(Item.of('wares:sealed_delivery_agreement', 
                     '{message:\'{"text":"Took this from stupid ones. Give us money?."}\', requested:"mriya:wares/pillager/requested_emeralds", payment:"mriya:wares/pillager/payment_goods"}'))
-                    .when((c) => c.randomChance(0.1)))
+                    .when((c) => c.randomChance(0.05)))
 }

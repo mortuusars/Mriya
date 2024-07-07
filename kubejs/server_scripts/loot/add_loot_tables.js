@@ -32,6 +32,7 @@ ServerEvents.genericLootTables(event => {
             pool.addItem('farmersdelight:cabbage_crate', 1, [1, 5])
             pool.addItem('farmersdelight:tomato_crate', 1, [1, 5])
             pool.addItem('minecraft:hay_block', 1, [1, 5])
+            pool.addItem('mriya:wine_bottle_crate', 1, [1, 4])
 
             pool.addItem('farmersdelight:wheat_dough', 1, [8, 24])
             pool.addItem('minecraft:bread', 1, [6, 20])
