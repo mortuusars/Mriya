@@ -162,4 +162,42 @@ function miscRecipes(event) {
       ], {
         B: 'mriya:wine_bottle'
       }).id('mriya:wine_bottle_crate')
+
+
+      event.shaped('decorative_blocks:lattice', [
+        ' S ',
+        'SSS',
+        ' S '
+      ], {
+        S: 'minecraft:stick'
+      }).id('decorative_blocks:lattice')
+
+      event.shaped('createdieselgenerators:oil_barrel', [
+        ' N ',
+        'SBS',
+        ' N '
+      ], {
+        S: 'create:iron_sheet',
+        B: 'minecraft:barrel',
+        N: '#forge:nuggets/iron'
+      }).id('createdieselgenerators:crafting/oil_barrel')
+
+      event.shaped('minecraft:furnace', [
+        'CCC',
+        'C C',
+        'CCC'
+      ], {
+        C: 'minecraft:cobblestone'
+      }).id('quark:building/crafting/furnaces/cobblestone_furnace')
+
+      const wood_types = ['oak', 'birch', 'spruce', 'acacia', 'jungle', 'dark_oak', 'mangrove', 'cherry', 'crimson', 'warped']
+      wood_types.forEach(type => {
+        event.shaped('decorative_blocks:' + type + '_beam', [
+          ' L ',
+          ' L ',
+          ' L '
+        ], {
+          L: 'minecraft:stripped_' + type + (type === 'crimson' || type === 'warped' ? '_stem' : '_log')
+        }).id('decorative_blocks:' + type + '_beam')
+      })
 }

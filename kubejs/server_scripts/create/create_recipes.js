@@ -10,7 +10,7 @@ ServerEvents.recipes(event => {
 
     event.recipes.create.crushing([Item.of('create:crushed_raw_iron').withChance(0.4),
     Item.of('minecraft:iron_nugget').withChance(0.4),
-    Item.of('spelunkery:cinnabar_shard').withChance(0.4),], '#create:stone_types/crimsite')
+    Item.of('spelunkery:cinnabar_shard').withChance(0.4),Item.of('spelunkery:cinnabar').withChance(0.05)], '#create:stone_types/crimsite')
         .processingTime(250)
         .id('create:crushing/crimsite');
 

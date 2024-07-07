@@ -11,7 +11,16 @@ Disabled.Items = [
     /spelunkery:rough_/,
     /upgrade_aquatic:.+bedroll/,
     /create_aquatic_ambitions:/,
-    // 'supplementaries:altimeter'
+    'miners_delight:insect_wrap',
+    'quark:berry_sack',
+    'quark:glowberry_sack',
+    'quark:polished_tuff',
+    'quark:polished_tuff_slab',
+    'quark:polished_tuff_stairs',
+    'quark:tuff_slab',
+    'quark:tuff_wall',
+    'quark:tuff_stairs',
+    'spelunkery:lapis_lazuli_shard'
 ]
 
 Disabled.Fluids = [

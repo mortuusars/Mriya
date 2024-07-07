@@ -1,5 +1,9 @@
 {
     "tooltip.spelunkery.hold_crouch": "§8Hold [§7Shift§8] for Details",
     "tooltip.spelunkery.portal_fluid_3": "  Use Dragon's Breath bottle on Crying Obsidian to obtain",
-    "tooltip.spelunkery.rope_ladder_3": "  Interact with the top ladder holding [§fSneak§7] to roll up"
+    "tooltip.spelunkery.rope_ladder_3": "  Interact with the top ladder holding [§fSneak§7] to roll up",
+
+    "biome.riverredux.gravelly_river": "Gravelly River",
+    "biome.riverredux.sandy_river": "Sandy River",
+    "biome.riverredux.tropical_river": "Tropical River"
 }
