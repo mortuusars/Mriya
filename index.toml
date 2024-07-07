@@ -189,6 +189,70 @@ file = "config/exposure-common.toml"
 hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
 
 [[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "bd9217f46a9ef876657a1440e08a8b362127180c6fe7e6c00c20033b119c3e50"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "385a458a7742c1287e4656f2a810bab51e8dd834ebd8aa435bc31dc039188ed2"
+
+[[files]]
+file = "config/fancymenu/panoramas/mriya/panorama/panorama_0.png"
+hash = "c196cd6f6065d16e8ac366bd4444a48a6458e9f8f55c7d82840465d999af0f91"
+
+[[files]]
+file = "config/fancymenu/panoramas/mriya/panorama/panorama_1.png"
+hash = "3fd566375c8b37cf713113ab5cf725c786f09124fbcfbb2960af16313bbb90a0"
+
+[[files]]
+file = "config/fancymenu/panoramas/mriya/panorama/panorama_2.png"
+hash = "12439bf95dccbb0d3416669dc73a800d22ccbf4c296cfd7b9d23323742dceb05"
+
+[[files]]
+file = "config/fancymenu/panoramas/mriya/panorama/panorama_3.png"
+hash = "1c378dca031c17a9a26c983eb2a94433fd7adec6a6b78f7570eb17c8592e1b68"
+
+[[files]]
+file = "config/fancymenu/panoramas/mriya/panorama/panorama_4.png"
+hash = "08c20dcb203c8c04646b521cf5bd4b19c0d09e390e9ae639f8d1e139667af555"
+
+[[files]]
+file = "config/fancymenu/panoramas/mriya/panorama/panorama_5.png"
+hash = "6f30e8d4d7d43b56bbfe2ee83184c0181fc940bde7925dcd87bef8119e7cc147"
+
+[[files]]
+file = "config/fancymenu/panoramas/mriya/properties.txt"
+hash = "1138b5107f1ceec41f979de07bfb0a3406f7058dd9d2827f5f758107e7753f48"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -267,38 +331,6 @@ hash = "9d4f171017122a0b54b339db1dc96ac05421b3e605d861378c63bf3648f90e85"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "ef40041a8ea3ee7376ab60495284e5852bc1674b564342783aa706148e40720e"
-
-[[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "a6ce690fa71c87d6bd424370dc1692e53903aa2ac72c7e22f7e3b9b7414a3c96"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "05798599e7cb97a16737a66264407048f447344c24159a88ce8dfbdb57c1e651"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "fed5a1f6e741725e0946ec0c3f753994ffed14bb7bcbef81e77e1bb960495e31"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "3bee4c4161d6c6b19123f7e4a701c18a9a8823f8abbc8d84f90928fbdb93b37c"
 
 [[files]]
 file = "config/kleeslabs-common.toml"
@@ -494,7 +526,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "7d84344191bd752fc586adf0148fe66ede0c16c1a7ce0b1255ad0626939f73b3"
+hash = "71a8fc46a16c23cecdd01e0d25575caa8d363c516029e6159d96c7836b67f908"
 
 [[files]]
 file = "datapacks/Mriya/data/ecologics/forge/biome_modifier/ocean_seashells.json"
@@ -782,11 +814,11 @@ hash = "bb2d4338caec02638a17b90f9790be612cc6711b94ade07539c1584ac5bcd961"
 
 [[files]]
 file = "kubejs/server_scripts/loot/add_loot_tables.js"
-hash = "528e025021a5d36551d38b4524f6ea9cacea58a4d850c170a3c09d110078cf56"
+hash = "6deb38d5bcd599735d76293d0a911623328724510b3f74a60fdb3b3485002f5e"
 
 [[files]]
 file = "kubejs/server_scripts/loot/loot_misc.js"
-hash = "ae699609b4ca9de9d6d006a661173ac4319f87bb7a74d76298c33aa8ccff4e40"
+hash = "f7260c3450ed10a8fab27414701fe609f8abb8cafad8ef696aeda8077f519e3e"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/recipes.js"
