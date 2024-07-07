@@ -3,10 +3,10 @@
 	#Default setting for whether or not the user wishes to chop (can be toggled in-game)
 	choppingEnabled = false
 	#Default setting for whether or not the user wishes to fell tree when chopping (can be toggled in-game)
-	fellingEnabled = false
+	fellingEnabled = true
 	#Default setting for the effect that sneaking has on chopping (can be cycled in-game)
 	#Allowed Values: NONE, INVERT_CHOPPING, INVERT_FELLING
-	sneakBehavior = "INVERT_FELLING"
+	sneakBehavior = "INVERT_CHOPPING"
 	#Ignore trees without connected leaves (can be toggled in-game)
 	treesMustHaveLeaves = true
 	#Enable chopping in creative mode (even when false, sneaking can still enable chopping) (can be toggled in-game)
