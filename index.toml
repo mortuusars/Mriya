@@ -1451,6 +1451,11 @@ hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "ad6b7c1e84ff4fa28658862544431c88deb5bd25aff91684f4871ba148968eb7"
 metafile = true
