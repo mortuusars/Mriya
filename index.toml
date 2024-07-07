@@ -189,6 +189,18 @@ file = "config/exposure-common.toml"
 hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
 
 [[files]]
+file = "config/fancymenu/assets/icon-16.png"
+hash = "ea3b7b2f9f1de8324c65cf9e7b65e8ea4b6ee5261611a6d6bb3fa1a46c034b0b"
+
+[[files]]
+file = "config/fancymenu/assets/icon-32.png"
+hash = "0ef58d9bdfa7656f880dc089e774e652c19b9922a8e59098c5efa3230b1e5eae"
+
+[[files]]
+file = "config/fancymenu/assets/icon_macos.icns"
+hash = "6027fa0121b0743bff6971fe692ea0bc5ebeb39a86b9cbe8f6970a474ad43bc0"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -210,7 +222,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "385a458a7742c1287e4656f2a810bab51e8dd834ebd8aa435bc31dc039188ed2"
+hash = "72cad19ecd9c6a92261c5281fdddd06e6ba6e1ece6e1339e4cdeb70f8c548939"
 
 [[files]]
 file = "config/fancymenu/panoramas/mriya/panorama/panorama_0.png"
@@ -741,8 +753,16 @@ file = "defaultconfigs/potionbundles-server.toml"
 hash = "e73536cce2956e810508f86b092ea8adc95ed4b86b701fe270cb063ca9265678"
 
 [[files]]
+file = "icon-16.png"
+hash = "ea3b7b2f9f1de8324c65cf9e7b65e8ea4b6ee5261611a6d6bb3fa1a46c034b0b"
+
+[[files]]
+file = "icon-32.png"
+hash = "0ef58d9bdfa7656f880dc089e774e652c19b9922a8e59098c5efa3230b1e5eae"
+
+[[files]]
 file = "icon.png"
-hash = "ccb13286caced4c67c21fca3d5966794c6795e4cef8bc455c50665fd0673f530"
+hash = "241257bb5816891da60bfa5cad27da928d2a390bb29c975c906aecf260538bc7"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -787,6 +807,10 @@ hash = "7d098919cc41dac4468acb9f1553674825397932f187ee8fb2782a65c0d4761e"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "337484b3ba5331584a23258364c9e05b0c0bb7d5172cfae15ab3efbe8c9df17e"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "71a8fc46a16c23cecdd01e0d25575caa8d363c516029e6159d96c7836b67f908"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
@@ -974,11 +998,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
-metafile = true
-
-[[files]]
-file = "mods/configured-defaults.pw.toml"
-hash = "29c9add8e5361b1b4af4e5c024f3e1d00e1d2d3d4907d2b95402bf03d0ac5b49"
 metafile = true
 
 [[files]]
