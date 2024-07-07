@@ -1021,6 +1021,11 @@ hash = "ecde06eae0428afe6d44435db3030d7073668e18427daa7b1e2930d4f33445fa"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
 metafile = true
@@ -1468,6 +1473,11 @@ metafile = true
 [[files]]
 file = "mods/wares.pw.toml"
 hash = "2f694ee8159b5133bda89ce4fbd4102985d4c7daac774d23e286f106eb1464a4"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "a6c6913cce90a477582c632ec246f90c917fbf97da4129e78bf408b060e01f89"
 metafile = true
 
 [[files]]
