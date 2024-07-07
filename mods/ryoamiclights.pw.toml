@@ -1,6 +1,6 @@
 name = "RyoamicLights"
 filename = "RyoamicLights-forge-0.2.3+mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

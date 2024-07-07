@@ -1000,10 +1000,6 @@ hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
 
 [[files]]
-file = "mods/create_tab_fix-1.0.0+forge-1.20.1.jar"
-hash = "2ee083c7c80c1279b0f99aa22f8bbab530861d24bea2bef1ad3e94c3929d8227"
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -1031,11 +1027,6 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "14b1ec5e16b3ce51752b10271a1457536acafdcacfeb807728478f337b34298e"
 metafile = true
 
 [[files]]
@@ -1077,10 +1068,6 @@ metafile = true
 file = "mods/fog-looks-modern-now.pw.toml"
 hash = "b31deb48d2140594addc96b1dcd18fea01509d5ce9581290b9dee40627696426"
 metafile = true
-
-[[files]]
-file = "mods/foglooksmodernnow-1.2.1.jar"
-hash = "314dea359dd960ea6199412d8324ae8100e3d9d16c726b86917500f6c0c317bd"
 
 [[files]]
 file = "mods/framework.pw.toml"
@@ -1279,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
-hash = "c656c57a7a5c4116778fbe1432717d2d03d00382aac35ef368f842cdef4fc092"
+hash = "585ee040b35bb296ea75de7fccbe0060b6ae76b4bdace90a0e3453c1b56ce19e"
 metafile = true
 
 [[files]]
@@ -1530,10 +1517,6 @@ file = "resourcepacks/Mriya/pack.mcmeta"
 hash = "f4455ca7f5fe20ba709e46a266274f0bd3f530ba9964614de148347f902ccffc"
 
 [[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "9422967fa15ebcb4a4fa0af85b9e72957ae2ea6759d26e22bb2c48735c91354e"
 
@@ -1561,10 +1544,6 @@ metafile = true
 file = "resourcepacks/low-shield.pw.toml"
 hash = "202155285572061f175ffdb001ad4b28d993262e43c54f5a70c3eea4c66d447e"
 metafile = true
-
-[[files]]
-file = "resourcepacks/lower_shield_1.14-1.20.4.zip"
-hash = "b274613c00961e674169871491ebae9c30c4987f3d807da012faceed69d5c7e1"
 
 [[files]]
 file = "resourcepacks/quiet-minecarts.zip"
