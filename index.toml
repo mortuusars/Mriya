@@ -910,6 +910,11 @@ hash = "6fb02c0604464d93cec49c76107d82d613295306cad88663ecfe98ca124e3aa9"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
+metafile = true
+
+[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "a481b0afa4e6b3452a9d592a51270c21660d243209f1e4b75ce2f982cf80f617"
 metafile = true
@@ -1030,6 +1035,11 @@ hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "148fbd8467ce47f2919067c08a402c7fca59caa330f5253a760a2309f0aed6c0"
+metafile = true
+
+[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "76b491823186a8333efe88e94e74d3ee6180357dbc021bf91a793457941b3f5c"
 metafile = true
@@ -1132,6 +1142,11 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "49a0eddb7f8ebeb781012ae0871d0de67a503357ce2041ec85504126f0852a5e"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
@@ -1302,6 +1317,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
 metafile = true
 
 [[files]]
