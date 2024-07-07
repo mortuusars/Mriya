@@ -450,7 +450,7 @@ hash = "c75302c83bd78b2e502b5d18a44744dedde3243145958d4a4682e14cb14cdbfd"
 
 [[files]]
 file = "config/treechop-client.toml"
-hash = "b2ed0fe280ca208ff7f8eb76974e165e0de00be7f0349253c4a1a0542622390d"
+hash = "1debd299ee82063f2e21976c2af12bc4c0d1d61e4bcb364b8805bfc8494937c6"
 
 [[files]]
 file = "config/treechop-common.toml"
@@ -494,7 +494,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "665832458b93b1b356851ad8a5926cdbb0645f9ad441a728a08cefb7121749a8"
+hash = "7d84344191bd752fc586adf0148fe66ede0c16c1a7ce0b1255ad0626939f73b3"
 
 [[files]]
 file = "datapacks/Mriya/data/ecologics/forge/biome_modifier/ocean_seashells.json"
@@ -746,7 +746,7 @@ hash = "1467c0c8e929ac139e4e8201f4ece3dd190190ad8d0a1f754f6e5865fd549e29"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "411d69ff051e6d19074662b15ac4a55d37c9488af80fc04a7531b64fc7ed6f8a"
+hash = "fab4feee99990356f07961dfd0d91581ef0d6b46cf17ce4f0b37faa72dbe014b"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1050,6 +1050,11 @@ hash = "15950be9c381a26936b3d695229a39eacc53631b0c98cfd1e40cd7b8e304670c"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "ce5b6e5f46fe0386b0a1c6e7aa2e811d45ff9eaa36b8ede42678939ee86de8eb"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -1145,6 +1150,11 @@ hash = "49a0eddb7f8ebeb781012ae0871d0de67a503357ce2041ec85504126f0852a5e"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ba6600d024f257ff40d4fca84e87fc553d5853b6c71f666d8597891d611b62f0"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
@@ -1177,6 +1187,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "514111f6cbd2618c5360f7bf4a8f130bd0c266ea59583b91e2a4734a1657807e"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
