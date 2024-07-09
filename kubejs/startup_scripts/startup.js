@@ -1,3 +1,3 @@
 // Set pack custom name:
-Platform.getInfo('mriya').name = 'mriya'
+Platform.getInfo('mriya').name = 'Mriya'
 

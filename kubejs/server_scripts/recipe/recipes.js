@@ -192,7 +192,7 @@ function miscRecipes(event) {
 
       const wood_types = ['oak', 'birch', 'spruce', 'acacia', 'jungle', 'dark_oak', 'mangrove', 'cherry', 'crimson', 'warped']
       wood_types.forEach(type => {
-        event.shaped('decorative_blocks:' + type + '_beam', [
+        event.shaped('3x decorative_blocks:' + type + '_beam', [
           ' L ',
           ' L ',
           ' L '
