@@ -685,46 +685,6 @@ file = "datapacks/Mriya/data/spelunkery/worldgen/configured_feature/portal_fluid
 hash = "26d093168a56ca59ba49b153a623513e48bbe80d886f4278e86587b9e027ae4f"
 
 [[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/configured_feature/patch_flowering_rush.json"
-hash = "ede5ba00abb2d575a26d00481c9a6a8dde37d21ec71e258a71867faa300bc2be"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/configured_feature/patch_searocket.json"
-hash = "ede5ba00abb2d575a26d00481c9a6a8dde37d21ec71e258a71867faa300bc2be"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/placed_feature/beachgrass_dunes.json"
-hash = "1b075b2be99e7c259b1509c451b05ef154898b1f2786524ac52fd517ef278e7f"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/placed_feature/driftwood_beach.json"
-hash = "8ef9b8db846c210a55918d1c5449d5126181d44f3f3b757cbf350d5da85e507d"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/placed_feature/driftwood_extra.json"
-hash = "63ab0b4eabbcce473774fd7706fa3a6746d038245fb72c3bef86c99af95c466f"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/placed_feature/driftwood_ocean.json"
-hash = "ab2bea97cfd8c7cfead91d6b52a3c42ca717e47c1b8e6621c34c6e44e0953823"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/placed_feature/driftwood_river.json"
-hash = "01c7dad99239ec09f38af1e499e8463f16c2745c0c59dcb46022358508adb2c5"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/placed_feature/driftwood_swamp.json"
-hash = "4f724977eb99e364a9176a3460c2f1080e61205e7746599726bb6014c3d5da72"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/placed_feature/patch_flowering_rush.json"
-hash = "32b20891b1d393467a92f4396926d23868f1c6e10dde0470d4e0c0c455039420"
-
-[[files]]
-file = "datapacks/Mriya/data/upgrade_aquatic/worldgen/placed_feature/river_tree.json"
-hash = "ff337a9de7a0fcb472f883d460887890d357aa58ab0bb7b99432d950a3da9364"
-
-[[files]]
 file = "datapacks/Mriya/pack.mcmeta"
 hash = "842a3d9625a3a2b1631950d11b79e0ac09e0b77e0f35f86159ddf23cdb0501e6"
 
@@ -762,7 +722,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/client_scripts/constants/jei_content.js"
-hash = "360257a47de99f3b0ea9c2ad0170cbc08645f7d352a5f40045f01d58aec1f396"
+hash = "00e0ae9f125582529fc8848ef28497fd81d570936acbf146369cdb2d193aafb6"
 
 [[files]]
 file = "kubejs/client_scripts/interaction.js"

@@ -9,8 +9,8 @@ const Disabled = {
 Disabled.Items = [
     /salt:.*/,
     /spelunkery:rough_/,
-    /upgrade_aquatic:.+bedroll/,
-    /create_aquatic_ambitions:/,
+    // /upgrade_aquatic:.+bedroll/,
+    // /create_aquatic_ambitions:/,
     'miners_delight:insect_wrap',
     'quark:berry_sack',
     'quark:glowberry_sack',

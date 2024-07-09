@@ -139,8 +139,8 @@ function miscRecipes(event) {
     ).id('mriya:straw_from_grass')
 
 
-    event.recipes.create.splashing([Item.of('upgrade_aquatic:driftwood_log').withChance(0.9)], ['minecraft:oak_log'])
-    event.recipes.create.splashing([Item.of('upgrade_aquatic:driftwood').withChance(0.9)], ['minecraft:oak_wood'])
+    // event.recipes.create.splashing([Item.of('upgrade_aquatic:driftwood_log').withChance(0.9)], ['minecraft:oak_log'])
+    // event.recipes.create.splashing([Item.of('upgrade_aquatic:driftwood').withChance(0.9)], ['minecraft:oak_wood'])
 
 
     Color.DYE.keySet().forEach(color => {

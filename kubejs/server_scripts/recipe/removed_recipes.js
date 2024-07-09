@@ -16,7 +16,7 @@ RemovedRecipes.ById = [
     'immersive_aircraft:gyrodyne',
 
     'salt:gunpowder',
-    'supplementaries:soap_clean_upgrade_aquatic_bedroll',
+    // 'supplementaries:soap_clean_upgrade_aquatic_bedroll',
     'supplementaries:altimeter',
 
     // Fix conflicts/duplicates
