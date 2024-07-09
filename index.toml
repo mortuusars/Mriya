@@ -770,7 +770,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/client_scripts/constants/jei_content.js"
-hash = "f8f4aa845b2e5f26e927378683877b900c4180182506396693e44bb994133eeb"
+hash = "360257a47de99f3b0ea9c2ad0170cbc08645f7d352a5f40045f01d58aec1f396"
 
 [[files]]
 file = "kubejs/client_scripts/interaction.js"
@@ -797,8 +797,12 @@ file = "kubejs/client_scripts/jei/jei_hide_recipes.js"
 hash = "1467c0c8e929ac139e4e8201f4ece3dd190190ad8d0a1f754f6e5865fd549e29"
 
 [[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "fab4feee99990356f07961dfd0d91581ef0d6b46cf17ce4f0b37faa72dbe014b"
+hash = "4aaad259f894cd85bf46dc515d64f9dfcdba6eafe012f00e239526eb68928926"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -814,7 +818,7 @@ hash = "71a8fc46a16c23cecdd01e0d25575caa8d363c516029e6159d96c7836b67f908"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "78abc6c68c4cfa2e119d05576d88422492c9a0ca2104a5a762d563edbf118196"
+hash = "85f7b91d53f09aab52fd7cf45df3cde0ba5e9e6d94e3a5e53d3aa361c6b1091c"
 
 [[files]]
 file = "kubejs/config/probejs.json"
@@ -826,15 +830,19 @@ hash = "8ffee39b6f8603d3715fd355fb775bda9153111471695d9eaab0be42b998494d"
 
 [[files]]
 file = "kubejs/server_scripts/constants/disabled.js"
-hash = "ecd24caaa52db1cc808837b9a3c5013184db3a05e1fc0f41e495cd1c6d737c95"
+hash = "c9a9b095d30f0d1b89c4fd1b3e133243072be44047c017bc5eb83d9e58996ed6"
 
 [[files]]
 file = "kubejs/server_scripts/create/create_recipes.js"
-hash = "0c7f3abbf45e85bef82319ebca58250657fd1e3e409bfb62f541896fc98912c4"
+hash = "f8c7122d954261d36be98b9d24f88700bbffb6e7ce2e7e75e359bfd4d3b3e1d2"
 
 [[files]]
 file = "kubejs/server_scripts/interaction/interaction.js"
 hash = "bb2d4338caec02638a17b90f9790be612cc6711b94ade07539c1584ac5bcd961"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/loot/add_loot_tables.js"
@@ -846,11 +854,11 @@ hash = "f7260c3450ed10a8fab27414701fe609f8abb8cafad8ef696aeda8077f519e3e"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/recipes.js"
-hash = "3dfbe1a18c424e14ce961119b619f1552e048b6b90c81a6e017ca88aa1592ea4"
+hash = "62a7434c84993a0fd6fa7154f894056acc87cc6e152c237a1c0101ce0dd01738"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/removed_recipes.js"
-hash = "985030658353570601e7d4f623145f6be0a13adfe5fd02268fe39f962e4f326e"
+hash = "9540098a094f44c66e159de5d961f54669e42738e7ebffc30badb975362b3a54"
 
 [[files]]
 file = "kubejs/server_scripts/server_startup.js"
@@ -863,6 +871,10 @@ hash = "2a5aea1d2c2d271bfeadd35fea589ec4a1cb7198e4cb4698b434a6b6f21bec18"
 [[files]]
 file = "kubejs/startup_scripts/constants/mriya.js"
 hash = "96398ab64282de2efe4b667cad7e40d676d9686ec3ba6b8a350a428bf2c71522"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
 file = "kubejs/startup_scripts/registry/block_registry.js"
@@ -1043,6 +1055,11 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "55e774a83edf2998fd3cb94a5a8e848648e2ea102d4cd689924b56424ff93f33"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
 metafile = true
 
 [[files]]
@@ -1497,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mriya/assets/mriya/lang/en_us.json"
-hash = "b76df02d151d5f10bf8f1d7d3c7fdf5a708fee143490c52b3f568142fc37054c"
+hash = "8dd691f17dbdd423d225ea38f342cc1eb7d92441c810849f63c83674a8910452"
 
 [[files]]
 file = "resourcepacks/Mriya/assets/mriya/models/block/wine_bottle_crate.json"
