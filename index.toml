@@ -1458,11 +1458,6 @@ hash = "ad6b7c1e84ff4fa28658862544431c88deb5bd25aff91684f4871ba148968eb7"
 metafile = true
 
 [[files]]
-file = "mods/upgrade-aquatic.pw.toml"
-hash = "3acdb73b387ed06391f02eed862793a3b85a2ba0d3b470ae8e52324cad44a9a2"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
 metafile = true
