@@ -1,12 +1,12 @@
 name = "Mriya"
 author = "mortuusars"
-version = "0.1.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "337521543b943cd1b6960b5608f5dd7a4d5c5f7397a5fe7dac55664cdcf9394e"
+hash = "02a8f17f17e95855298bf28c7696806ed3764505a8f709e99f341ece08590758"
 
 [versions]
 forge = "47.3.0"

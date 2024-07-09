@@ -797,10 +797,6 @@ file = "kubejs/client_scripts/jei/jei_hide_recipes.js"
 hash = "1467c0c8e929ac139e4e8201f4ece3dd190190ad8d0a1f754f6e5865fd549e29"
 
 [[files]]
-file = "kubejs/client_scripts/jsconfig.json"
-hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
-
-[[files]]
 file = "kubejs/client_scripts/tooltips.js"
 hash = "4aaad259f894cd85bf46dc515d64f9dfcdba6eafe012f00e239526eb68928926"
 
@@ -841,10 +837,6 @@ file = "kubejs/server_scripts/interaction/interaction.js"
 hash = "bb2d4338caec02638a17b90f9790be612cc6711b94ade07539c1584ac5bcd961"
 
 [[files]]
-file = "kubejs/server_scripts/jsconfig.json"
-hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
-
-[[files]]
 file = "kubejs/server_scripts/loot/add_loot_tables.js"
 hash = "6deb38d5bcd599735d76293d0a911623328724510b3f74a60fdb3b3485002f5e"
 
@@ -854,7 +846,7 @@ hash = "f7260c3450ed10a8fab27414701fe609f8abb8cafad8ef696aeda8077f519e3e"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/recipes.js"
-hash = "62a7434c84993a0fd6fa7154f894056acc87cc6e152c237a1c0101ce0dd01738"
+hash = "3b3eab2f4d16618d711b7dc6542239195d75a7e241c05dec668a457d6738ae42"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/removed_recipes.js"
@@ -873,10 +865,6 @@ file = "kubejs/startup_scripts/constants/mriya.js"
 hash = "96398ab64282de2efe4b667cad7e40d676d9686ec3ba6b8a350a428bf2c71522"
 
 [[files]]
-file = "kubejs/startup_scripts/jsconfig.json"
-hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
-
-[[files]]
 file = "kubejs/startup_scripts/registry/block_registry.js"
 hash = "b80778a1ac75185dcb45a80cbe590f1f3934f9a0d409d82d5dc2a6ebc50e844c"
 
@@ -890,7 +878,7 @@ hash = "f2b0543847d7bb0fb9ca6939b8e318d72220ea0ed2489224b7c51b620421fbbf"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
-hash = "1307191e0244cbb52af7711b7613debb24523e6ee9e98e53fe1b37e5438bebfd"
+hash = "ac3f84d1ac2a290dce183767eb0fe9e2a3768b91c1fbdedcf6b5aed95d5b079d"
 
 [[files]]
 file = "mods/amendments.pw.toml"
