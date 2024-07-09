@@ -533,14 +533,6 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
-file = "configureddefaults/README.md"
-hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
-
-[[files]]
-file = "configureddefaults/options.txt"
-hash = "71a8fc46a16c23cecdd01e0d25575caa8d363c516029e6159d96c7836b67f908"
-
-[[files]]
 file = "datapacks/Mriya/data/ecologics/forge/biome_modifier/ocean_seashells.json"
 hash = "c898c6b83da1ba1af93471a647676e311515a80f037373622ba7787e6475033b"
 
