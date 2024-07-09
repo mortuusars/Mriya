@@ -766,11 +766,11 @@ hash = "71a8fc46a16c23cecdd01e0d25575caa8d363c516029e6159d96c7836b67f908"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "85f7b91d53f09aab52fd7cf45df3cde0ba5e9e6d94e3a5e53d3aa361c6b1091c"
+hash = "7e0eeb398a9b2956a285774100b3933caa220748ce9da160ad65da6e20a01b6a"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "cfc6bde15726b4833c195fc6ca81843d157526037e160d04aeb3c872fbc0f030"
+hash = "999d8a8e03dc9fc40fc7667fd58ca3b1ffa5483b2154392495492fb40a735c80"
 
 [[files]]
 file = "kubejs/server_scripts/constants/advancement.js"
@@ -1666,3 +1666,7 @@ hash = "8b1cac163a11e5ee4890bd426d6a2638a4644c9483d8941f11f68b55915fba27"
 file = "resourcepacks/soft-weather.pw.toml"
 hash = "8313bc03de6b407cb9ddd76d2c1549493a1df96a9ff46900f93b074c8360f273"
 metafile = true
+
+[[files]]
+file = "version.txt"
+hash = "d51e6ec94058554a84558a5b402ee6ef5fdf5455e35c902feda61cda8752943a"
