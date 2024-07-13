@@ -1,6 +1,8 @@
 ## Unreleased
 Added mods:
 - Chat Heads
+- Item Zoom
+- Spark
 
 Changes:
 - Disabled `checkForSpace` config option for Callable Horses. They can now be called in tight spaces.

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "60ad82118e865fe75e1ee019ca329099d74f95bc4443d4a79de55c19ba630e9c"
+hash = "74aa15298b1a34d2a30b6838fad6bddff1ca3f5057de0efba174187f273befd4"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -1166,6 +1166,11 @@ hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
+file = "mods/itemzoom.pw.toml"
+hash = "6641b70b57ddcbeaf3b4da664a5a14246a206c2c1341ab9ba682a4baff7d0123"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
 metafile = true
@@ -1383,6 +1388,11 @@ metafile = true
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
 hash = "8bf04693eac8fc35571207223c2e6e144358e5b7862c311a36fed81228980564"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
