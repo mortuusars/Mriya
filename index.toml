@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "c9a71447e8a83eb9b62f81693111b9456dedc2c38485b080cdfac503c03a4daf"
+hash = "60ad82118e865fe75e1ee019ca329099d74f95bc4443d4a79de55c19ba630e9c"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -86,7 +86,7 @@ hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "ea7170d9938023e2ec5a5694eda25a01ab2826fddbe9996695aa4d9029db2aad"
+hash = "82f675591ecda8bc6ab3a6ce496893eb7ba6ec64ab7525e961b9408d7d0411ad"
 
 [[files]]
 file = "config/cat_loaf.json"
@@ -605,6 +605,10 @@ file = "datapacks/Mriya/data/immersive_aircraft/aircraft/quadrocopter.json"
 hash = "933e8f83693cad520dfefb9c4bc660d732da441bf3de75cdb1484c1f17ffe2cb"
 
 [[files]]
+file = "datapacks/Mriya/data/minecraft/loot_tables/blocks/dirt_path.json"
+hash = "e3d2f6aeb8d98d10cf88e1ba85107f5bbfcfb3c133954a36d33596ced029c7f9"
+
+[[files]]
 file = "datapacks/Mriya/data/minecraft/worldgen/configured_feature/dark_oak.json"
 hash = "6791f116ba12af620b19a7e3265066c140c05fd9a204ef6593a99e6a1092d89e"
 
@@ -928,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "098e18bd67564038f886c184aba397d7801a0650e10ca489e1f291cf10c4ee91"
+hash = "cc3328e6b0892ef1671863a4df0112d70ff3bcb5c378134a60f28b547dc49729"
 metafile = true
 
 [[files]]

@@ -4,8 +4,10 @@ Added mods:
 
 Changes:
 - Disabled `checkForSpace` config option for Callable Horses. They can now be called in tight spaces.
-- Fixed and slightly nerfed spelunkery salt mixing recipes
-- Fixed several items having no names
+- Excluded Monobank from the CarryOn movable blocks.
+- Fixed Path block not dropping anything.
+- Fixed and slightly nerfed spelunkery salt mixing recipes.
+- Fixed several items having no names.
 
 ---
 
