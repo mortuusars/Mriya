@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "74aa15298b1a34d2a30b6838fad6bddff1ca3f5057de0efba174187f273befd4"
+hash = "9a44a1c58c71fd4eabda9796c780a30956f6bd5e4b352fa41ae33457da6a31aa"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -347,6 +347,10 @@ hash = "9d4f171017122a0b54b339db1dc96ac05421b3e605d861378c63bf3648f90e85"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "ef40041a8ea3ee7376ab60495284e5852bc1674b564342783aa706148e40720e"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "220da4ae3704ee9d837345501fa42da322e8685dee40d2d4133de4e2a9dee79e"
 
 [[files]]
 file = "config/kleeslabs-common.toml"
@@ -790,7 +794,7 @@ hash = "e37c6c407e5db014ad925f74fcc57b7ec3cf4599247bf555b383e997c47aed39"
 
 [[files]]
 file = "kubejs/server_scripts/create/create_recipes.js"
-hash = "6907e8bc60cfe4847d5e0231c91f77aced7e8850f31b1d499c31ec61b25923b1"
+hash = "ed0b969cb7c0c5366d24fcf3ce96fcddfa8aef601c67a9b575ec11dbe964333b"
 
 [[files]]
 file = "kubejs/server_scripts/interaction/interaction.js"

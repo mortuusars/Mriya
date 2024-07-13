@@ -60,4 +60,6 @@ ServerEvents.recipes(event => {
     event.recipes.create.mixing(['spelunkery:salt'], ['minecraft:pointed_dripstone', Fluid.of('minecraft:water', 500)])
         .heated()
         .id('spelunkery:mixing/salt')
+
+    event.recipes.create.milling(['spelunkery:cinnabar', Item.of('minecraft:redstone').withChance(0.5)], ['#forge:ores/redstone'])
 })
