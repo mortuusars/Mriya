@@ -1311,7 +1311,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "9f187cc1e000cb440e96323ba9d61f1a62012b9d7bfc716c3391bb2963a009a6"
+hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
 metafile = true
 
 [[files]]
