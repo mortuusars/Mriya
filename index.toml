@@ -1645,6 +1645,10 @@ file = "resourcepacks/Mriya/assets/mriya/textures/item/wine_bottle.png"
 hash = "0f6b5dc32388610672f89c5629363cf2447835d54f0ef0d5985004117fa05f76"
 
 [[files]]
+file = "resourcepacks/Mriya/assets/toms_storage/lang/en_us.json"
+hash = "f837a0a127fdf2774bb721c98caece7622a3ead8eb1c512648f1e70c60cecc7d"
+
+[[files]]
 file = "resourcepacks/Mriya/assets/toms_storage/textures/gui/crafting_terminal.png"
 hash = "80dd1fb2850ec9d24cbb4e29f2317eddf77799c166162c338330d5c7cc4fb6e3"
 
