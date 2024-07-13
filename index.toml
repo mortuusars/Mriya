@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "c9a71447e8a83eb9b62f81693111b9456dedc2c38485b080cdfac503c03a4daf"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "ed5f767a6bcf283e8745d1bc40e56acbb9f6c8ac9934cfcbc0bd35e4ce712034"
 
@@ -70,7 +74,7 @@ hash = "d335fd00458005d989d55a6615073d5b390ea08d5e1d129229518f90d5d3ef9b"
 
 [[files]]
 file = "config/callablehorses-common.toml"
-hash = "25f6ff512b0cc12789eda736c153216c9566ecc8ee898cbd0d8edafd77d7b178"
+hash = "7324f4b28a24eb5af66a3d463f6c25b6d53679e7aa0e629865b93dd85f723d23"
 
 [[files]]
 file = "config/canary.properties"
@@ -82,7 +86,7 @@ hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1"
+hash = "ea7170d9938023e2ec5a5694eda25a01ab2826fddbe9996695aa4d9029db2aad"
 
 [[files]]
 file = "config/cat_loaf.json"
@@ -750,7 +754,7 @@ hash = "1467c0c8e929ac139e4e8201f4ece3dd190190ad8d0a1f754f6e5865fd549e29"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "4aaad259f894cd85bf46dc515d64f9dfcdba6eafe012f00e239526eb68928926"
+hash = "aa3e163a55ca2fa1c4790aa938b3e49f7f12a113c247b405c8186f918d6e2ba4"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -770,7 +774,7 @@ hash = "7e0eeb398a9b2956a285774100b3933caa220748ce9da160ad65da6e20a01b6a"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "999d8a8e03dc9fc40fc7667fd58ca3b1ffa5483b2154392495492fb40a735c80"
+hash = "2f78cd5a0faad78089ad6ee68863cbabc0a7b1e14e094ded50e7cef01a726b0c"
 
 [[files]]
 file = "kubejs/server_scripts/constants/advancement.js"
@@ -782,7 +786,7 @@ hash = "e37c6c407e5db014ad925f74fcc57b7ec3cf4599247bf555b383e997c47aed39"
 
 [[files]]
 file = "kubejs/server_scripts/create/create_recipes.js"
-hash = "f8c7122d954261d36be98b9d24f88700bbffb6e7ce2e7e75e359bfd4d3b3e1d2"
+hash = "6907e8bc60cfe4847d5e0231c91f77aced7e8850f31b1d499c31ec61b25923b1"
 
 [[files]]
 file = "kubejs/server_scripts/interaction/interaction.js"
@@ -920,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/chalk.pw.toml"
 hash = "6fb02c0604464d93cec49c76107d82d613295306cad88663ecfe98ca124e3aa9"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "098e18bd67564038f886c184aba397d7801a0650e10ca489e1f291cf10c4ee91"
 metafile = true
 
 [[files]]

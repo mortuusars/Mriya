@@ -15,7 +15,7 @@
 	enableStatsViewer = true
 	#Range in which the horse will not teleport, but walk to you. Set to 0 to force the horse to always teleport.
 	#Range: 0.0 ~ 64.0
-	horseWalkRange = 30.0
+	horseWalkRange = 25.0
 	#Speed with which the horse walks when you call it. Vanilla horse walk speed is 1.2
 	#Range: 0.0 ~ 10.0
 	horseWalkSpeed = 1.8
@@ -24,5 +24,5 @@
 	#Prevents personal horses from dropping items (like leather). This won't prevent armor or saddles from dropping. If this is disabled in combination with deathIsPermanent, it can become a really easy way to farm/duplicate leather, so keep that in mind.
 	disableHorseDrops = true
 	#If you need a 3x3x3 space to call your horse
-	checkForSpace = true
+	checkForSpace = false
 
