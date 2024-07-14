@@ -6,6 +6,7 @@ Added mods:
 
 Changes:
 - Downgraded ProbeJS version from 7.0.1 to 6.0.1.
+- Rebalanced Tom's Storage recipes.
 - Added milling Redstone Ore into Cinnabar recipe.
 - Enabled search by color in JEI.
 - Disabled `checkForSpace` config option for Callable Horses. They can now be called in tight spaces.

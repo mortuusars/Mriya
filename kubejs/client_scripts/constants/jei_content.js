@@ -12,7 +12,8 @@ jei.items.disabled = [
 
     /salt:.*/,
 
-    'supplementaries:altimeter'
+    'supplementaries:altimeter',
+    'toms_storage:ts.wireless_terminal'
 ];
 
 jei.items.hidden = [
@@ -40,7 +41,7 @@ jei.items.hidden = [
     'quark:tuff_slab',
     'quark:tuff_wall',
     'quark:tuff_stairs',
-    'spelunkery:lapis_lazuli_shard'
+    'spelunkery:lapis_lazuli_shard',
 ];
 
 jei.fluids.hidden = [
