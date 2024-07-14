@@ -1,4 +1,4 @@
-## Unreleased
+## 1.0.2
 Added mods:
 - Chat Heads
 - Item Zoom
@@ -15,14 +15,10 @@ Changes:
 - Fixed and slightly nerfed spelunkery salt mixing recipes.
 - Fixed several items having no names.
 
----
 
-1.0.1
+## 1.0.1
 - Disable ProbeJS
 
----
 
-1.0.0
+## 1.0.0
 - Release
-
----
