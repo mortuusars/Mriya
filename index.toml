@@ -298,7 +298,7 @@ hash = "70a49aec22117f6eaef55e2e9c4eb8ee4521136912a722444ae8c4e02e97085d"
 
 [[files]]
 file = "config/foglooksmodernnow.toml"
-hash = "3d7df566dae175c59d0891805130caef4e6c5577788fc824273afb61ff75c569"
+hash = "b20ef85e6bc649242787cf7a6c786d399445ed991d2d94974c961a7a2c23ee16"
 
 [[files]]
 file = "config/forge-client.toml"
