@@ -1,7 +1,11 @@
 ## UNRELEASED
-- Added Simple Discord Rich Presence.
+Added mods: 
+- Simple Discord Rich Presence
 
-- Fix hoe crop harvesting interaction.
+Changes:
+- Added crushing recipes for Spelunkery Rough Gem blocks, since they can still generate as part of a worldgen.
+- Hidden Create Connected Copycats from JEI.
+- Fixed hoe crop harvesting interaction.
     - Fixed not being able to bonemeal crops.
 
 ## 1.0.2

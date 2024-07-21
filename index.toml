@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "65cdd783e650bba503e928f98c56227cc9d7d915224fe2126b43de51eaeba6a7"
+hash = "8a078ca59ae18c0250e190e3d7144cf5d9b868bdaff7bdef3b4acc3e2f7f8b4d"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -730,11 +730,11 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/client_scripts/constants/jei_content.js"
-hash = "6117fffbc82e444f1b6132750f0dafe13671e5198adba3335d21a87c93887e70"
+hash = "ea09dacbd18b3c965cfc8dd439748083738e487b3641a51cce1377ed5466dab2"
 
 [[files]]
 file = "kubejs/client_scripts/interaction.js"
-hash = "5d273a3b69f0c333f74181f826c83cacd698fbba1ad7facf8f772482ee4b7ebb"
+hash = "559f2e2394236462977f89f9e1959befd2a7910f2067c8f76f600b857150f912"
 
 [[files]]
 file = "kubejs/client_scripts/jei/jei_add_items.js"
@@ -758,7 +758,7 @@ hash = "1467c0c8e929ac139e4e8201f4ece3dd190190ad8d0a1f754f6e5865fd549e29"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "9ea6e43619705fd0126fb4ab63770a737af4a05b284da412e32fc31fb3719cf7"
+hash = "06058875ece8f85f1fc54441599a7ef008e5b3e3e03e768d675740afee82bca6"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -790,7 +790,7 @@ hash = "e37c6c407e5db014ad925f74fcc57b7ec3cf4599247bf555b383e997c47aed39"
 
 [[files]]
 file = "kubejs/server_scripts/create/create_recipes.js"
-hash = "ed0b969cb7c0c5366d24fcf3ce96fcddfa8aef601c67a9b575ec11dbe964333b"
+hash = "1d3bdebe56fb6572293dd18d708ee09be8ab6c37d3b76656d044029babbe8458"
 
 [[files]]
 file = "kubejs/server_scripts/interaction/interaction.js"
@@ -810,15 +810,11 @@ hash = "5a3cbed6065e2bc7c3515b553665f3d123bcb03493f3ec9ac39ff9d7864ce7bf"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/removed_recipes.js"
-hash = "eb018cf2510c6d39093e47d7c526f5bf7cedd2a3e3e305433631c51bc0422a23"
+hash = "2e95e5c47b2bbb0d0d565a5ee06791140f8097109834084271385311aa77c5b8"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/toms_storage.js"
 hash = "748fcdf17f4c4ad54034315c095a76db6af7fa6cf396f7074836356484092494"
-
-[[files]]
-file = "kubejs/server_scripts/server_startup.js"
-hash = "1e7b142616cc66219594f1c10b6199d0a1b6c13b48818b412382f7e17b113ea0"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -1705,4 +1701,4 @@ metafile = true
 
 [[files]]
 file = "version.txt"
-hash = "bfec2e34583ada7e6af2cb73993fb75a3f7147a6c943e5ff5f5c4294fc577b90"
+hash = "20d2cb096d1ab41a4140246d12f07bf6b8cb743fd48122b72532c03d44c5c14a"

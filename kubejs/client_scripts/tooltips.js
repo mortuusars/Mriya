@@ -38,13 +38,31 @@ ItemEvents.tooltip(event => {
     event.addAdvanced('spelunkery:portal_fluid_bottle', (item, advanced, text) => {
         text.remove(1);
     });
-    // event.addAdvanced('minecraft:respawn_anchor', (item, advanced, text) => {
-    //     text.remove(1);
-    // });
     event.addAdvanced('minecraft:redstone', (item, advanced, text) => {
         text.remove(1);
     });
     event.addAdvanced(/comforts:sleeping_bag_/, (item, advanced, text) => {
+        text.remove(1);
+    })
+
+    // event.addAdvanced('spelunkery:rough_diamond_block', (item, advanced, text) => {
+    //     text.remove(1);
+    // })
+    // event.addAdvanced('spelunkery:rough_lazurite_block', (item, advanced, text) => {
+    //     text.remove(1);
+    // })
+    // event.addAdvanced('spelunkery:rough_cinnabar_block', (item, advanced, text) => {
+    //     text.remove(1);
+    // })
+    // event.addAdvanced('spelunkery:rough_emerald_block', (item, advanced, text) => {
+    //     text.remove(1);
+    // })
+
+    event.addAdvanced([
+        'spelunkery:rough_diamond_block', 
+        'spelunkery:rough_lazurite_block', 
+        'spelunkery:rough_cinnabar_block', 
+        'spelunkery:rough_emerald_block'], (item, advanced, text) => {
         text.remove(1);
     })
 })

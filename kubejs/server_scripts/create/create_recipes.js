@@ -14,6 +14,26 @@ ServerEvents.recipes(event => {
         .processingTime(250)
         .id('create:crushing/crimsite');
 
+    event.recipes.create.crushing(['20x minecraft:redstone', Item.of('4x spelunkery:cinnabar').withChance(0.5), Item.of('6x spelunkery:cinnabar_shard').withChance(0.5)], 'spelunkery:rough_cinnabar_block')
+        .processingTime(250)
+        .id('create:crushing/rough_cinnabar');
+
+    event.recipes.create.crushing(['16x minecraft:lapis_lazuli', Item.of('8x minecraft:lapis_lazuli').withChance(0.5)], 'spelunkery:rough_lazurite_block')
+        .processingTime(250)
+        .id('create:crushing/rough_lazurite');
+
+    event.recipes.create.crushing(['16x minecraft:quartz', Item.of('8x minecraft:quartz').withChance(0.5)], 'spelunkery:rough_quartz_block')
+        .processingTime(250)
+        .id('create:crushing/rough_quartz');
+    
+    event.recipes.create.crushing(['9x minecraft:emerald', Item.of('2x minecraft:emerald').withChance(0.5), Item.of('6x spelunkery:emerald_shard').withChance(0.5)], 'spelunkery:rough_emerald_block')
+        .processingTime(250)
+        .id('create:crushing/rough_emerald');
+        
+    event.recipes.create.crushing(['9x minecraft:diamond', Item.of('2x minecraft:diamond').withChance(0.5), Item.of('6x spelunkery:diamond_shard').withChance(0.5)], 'spelunkery:rough_diamond_block')
+        .processingTime(250)
+        .id('create:crushing/rough_diamond');
+
 
     event.shapeless('farmersdelight:wheat_dough', ['create:wheat_flour', 'miners_delight:water_cup'])
         .id('create:crafting/appliances/dough_from_cup')

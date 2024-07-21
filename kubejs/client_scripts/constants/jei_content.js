@@ -21,10 +21,17 @@ jei.items.hidden = [
     'createteleporters:incomplete_advanced_part',
     'createteleporters:incomplete_q_mechanism',
 
-    /spelunkery:rough_/,
+    /create_connected:copycat_\w+/,
+
     'spelunkery:raw_zinc_nugget',
-    'spelunkery:saltpeter_block',
-    'spelunkery:saltpeter',
+    'spelunkery:diamond_grindstone',
+    /spelunkery:rough_\w+_shard/,
+    'spelunkery:rough_cinnabar',
+    'spelunkery:rough_lazurite',
+    'spelunkery:rough_emerald',
+    'spelunkery:rough_diamond',
+    // 'spelunkery:saltpeter_block',
+    // 'spelunkery:saltpeter',
 
     // /upgrade_aquatic:.+bedroll/,
     // 'upgrade_aquatic:bedroll',
