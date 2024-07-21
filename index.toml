@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "2fe2859ead037c1077889c5c178f8eb4d8c10e11fa22de49e7f4c6fbe40dd413"
+hash = "65cdd783e650bba503e928f98c56227cc9d7d915224fe2126b43de51eaeba6a7"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -410,7 +410,7 @@ hash = "3cb3096fe982092bc5a383b24d1dda2a71ce7e7a8fe27970cc19c756ef965fd5"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "69287ff0079d79fce3bb1e719bcb75bab0e1f8f9846fb9f461ef19a30e2b6ddd"
+hash = "b4754ba502d999b94185575edeb1383bf972d4e58ca6036c9b8574f08d413eba"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -451,6 +451,10 @@ hash = "73f2e3177b10d790709eac49a3a0eab877c3d42435c54c772f02606215e37047"
 [[files]]
 file = "config/scholar-common.toml"
 hash = "60c2814a5145aeb6de0884f1c017756884e960fa8a9533b8cf5b1989c409f4ed"
+
+[[files]]
+file = "config/sdrp-common.json"
+hash = "3e0e716e61fd85eb89059d6bc1f9f29fbb12b75dd4f22af89ef973ae079834f4"
 
 [[files]]
 file = "config/seamless_loading_screen.json"
@@ -717,14 +721,6 @@ file = "defaultconfigs/potionbundles-server.toml"
 hash = "e73536cce2956e810508f86b092ea8adc95ed4b86b701fe270cb063ca9265678"
 
 [[files]]
-file = "icon-16.png"
-hash = "ea3b7b2f9f1de8324c65cf9e7b65e8ea4b6ee5261611a6d6bb3fa1a46c034b0b"
-
-[[files]]
-file = "icon-32.png"
-hash = "0ef58d9bdfa7656f880dc089e774e652c19b9922a8e59098c5efa3230b1e5eae"
-
-[[files]]
 file = "icon.png"
 hash = "241257bb5816891da60bfa5cad27da928d2a390bb29c975c906aecf260538bc7"
 
@@ -798,7 +794,7 @@ hash = "ed0b969cb7c0c5366d24fcf3ce96fcddfa8aef601c67a9b575ec11dbe964333b"
 
 [[files]]
 file = "kubejs/server_scripts/interaction/interaction.js"
-hash = "bb2d4338caec02638a17b90f9790be612cc6711b94ade07539c1584ac5bcd961"
+hash = "7829205b085704386ae86c612482c3ba632f9832c017a88a77da6c9fb98bf327"
 
 [[files]]
 file = "kubejs/server_scripts/loot/add_loot_tables.js"
@@ -1381,6 +1377,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rich-presence.pw.toml"
+hash = "1107c941dcd4b1678ad79b8a29648457343e6aac9e373c8f5af99935140e6066"
 metafile = true
 
 [[files]]

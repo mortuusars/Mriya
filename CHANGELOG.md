@@ -1,4 +1,6 @@
 ## UNRELEASED
+- Added Simple Discord Rich Presence.
+
 - Fix hoe crop harvesting interaction.
     - Fixed not being able to bonemeal crops.
 
