@@ -1,4 +1,4 @@
-## UNRELEASED
+## 1.0.3 - 2024-07-21
 Added mods: 
 - Simple Discord Rich Presence
 
@@ -8,7 +8,7 @@ Changes:
 - Fixed hoe crop harvesting interaction.
     - Fixed not being able to bonemeal crops.
 
-## 1.0.2
+## 1.0.2 - 2024-07-14
 Added mods:
 - Chat Heads
 - Item Zoom
@@ -26,9 +26,9 @@ Changes:
 - Fixed several items having no names.
 
 
-## 1.0.1
+## 1.0.1 - 2024-07-09
 - Disable ProbeJS
 
 
-## 1.0.0
+## 1.0.0 - 2024-07-09
 - Release
