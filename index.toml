@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "ecde06eae0428afe6d44435db3030d7073668e18427daa7b1e2930d4f33445fa"
+hash = "a678f13d916475b068db2d6ee53e58713f2eb8bebf7cd728c52c45107596f08a"
 metafile = true
 
 [[files]]
@@ -1076,12 +1076,12 @@ metafile = true
 
 [[files]]
 file = "mods/exposure-catalog.pw.toml"
-hash = "76b491823186a8333efe88e94e74d3ee6180357dbc021bf91a793457941b3f5c"
+hash = "6aafec5c716a643fe13656998609b7ccb4c4de1dc7326243010dff72c7544a28"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "15950be9c381a26936b3d695229a39eacc53631b0c98cfd1e40cd7b8e304670c"
+hash = "b00f8f5c8dacdfe326732b81adf44ee0c5d9d461e1a41ad552cb61ecde108791"
 metafile = true
 
 [[files]]
@@ -1376,7 +1376,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
+hash = "84298e5c4783b70dd8ea6abdda79b67b12a584f7420f6e72bbb5f91ea7875b35"
 metafile = true
 
 [[files]]
@@ -1386,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
+hash = "6068cdff2ed4152619680b61ec139e35ac3ef3f867ec34c3a1fc41a24b446465"
 metafile = true
 
 [[files]]
@@ -1436,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
+hash = "5a7cbd5bc7dd5ac36cdb21f225e746d67bfb76523ca570afe78a5e421839040a"
 metafile = true
 
 [[files]]
