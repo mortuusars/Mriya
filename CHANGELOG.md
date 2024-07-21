@@ -1,3 +1,7 @@
+## UNRELEASED
+- Fix hoe crop harvesting interaction.
+    - Fixed not being able to bonemeal crops.
+
 ## 1.0.2
 Added mods:
 - Chat Heads

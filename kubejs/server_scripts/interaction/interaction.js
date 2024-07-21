@@ -19,18 +19,6 @@ BlockEvents.rightClicked(event => {
     const p = event.player;
     const item = p.getItemInHand(event.hand);
 
-    if (event.block.hasTag('minecraft:crops')) {
-        if (item.hasTag('minecraft:hoes')) {
-            if (event.block.blockState.block.isMaxAge(event.block.blockState)) {
-                event.level.runCommandSilent(`playsound minecraft:entity.player.attack.sweep player @a ${p.x} ${p.y} ${p.z}`)
-            }
-        }
-        else {
-            event.cancel()
-        }
-        return
-    }
-
     if (event.block.id == 'minecraft:crying_obsidian' && item.id == "minecraft:dragon_breath") {
         event.block.set('minecraft:obsidian')
 
