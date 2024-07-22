@@ -1,4 +1,4 @@
-## Unreleased
+## 1.0.4 - 2024-07-22
 - Updated Exposure Catalog to fix server joining error.
 
 ## 1.0.3 - 2024-07-21

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "87cde62410a30e78ec292d59719bcdb3c0ad2a23e7c400e19cd2c5807eef7cfe"
+hash = "91514917c696aed1ac15493518305ad471afe78919e554364efbc22e80d39589"
 
 [[files]]
 file = "config/DistantHorizons.toml"
