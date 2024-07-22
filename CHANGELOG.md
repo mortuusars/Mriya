@@ -1,3 +1,6 @@
+## Unreleased
+- Updated Exposure Catalog to fix server joining error.
+
 ## 1.0.3 - 2024-07-21
 Added mods: 
 - Simple Discord Rich Presence
