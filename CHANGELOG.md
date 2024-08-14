@@ -6,8 +6,8 @@
 
 Changes:
 - Removed 'Salt' villager trades as the items are disabled in favor of Spelunkery salt.
-
-
+- Removed some adjusted Spelunkery recipes, as they have been fixed in a new version of the mod.
+    - Salt->Rock Salt mixing recipe is not default and requires heating.
 
 ## 1.0.4 - 2024-07-22
 - Updated Exposure Catalog to fix server joining error.

@@ -54,15 +54,15 @@ function miscRecipes(event) {
         }).id('mriya:backpack');
 
 
-    event.recipes.create.filling([Item.of('spelunkery:portal_fluid_bottle')],
-        [Item.of('minecraft:glass_bottle'), Fluid.of('spelunkery:portal_fluid', 250)], 100)
-        .id('spelunkery:filling/portal_fluid')
-    event.recipes.create.emptying([Item.of('minecraft:bucket'), Fluid.of('spelunkery:portal_fluid', 1000)],
-        Item.of('spelunkery:portal_fluid_bucket'))
-        .id('spelunkery:emptying/portal_fluid_bucket')
-    event.recipes.create.emptying([Item.of('minecraft:glass_bottle'), Fluid.of('spelunkery:portal_fluid', 250)],
-        Item.of('spelunkery:portal_fluid_bottle'))
-        .id('spelunkery:emptying/portal_fluid_bottle')
+    // event.recipes.create.filling([Item.of('spelunkery:portal_fluid_bottle')],
+    //     [Item.of('minecraft:glass_bottle'), Fluid.of('spelunkery:portal_fluid', 250)], 100)
+    //     .id('spelunkery:filling/portal_fluid')
+    // event.recipes.create.emptying([Item.of('minecraft:bucket'), Fluid.of('spelunkery:portal_fluid', 1000)],
+    //     Item.of('spelunkery:portal_fluid_bucket'))
+    //     .id('spelunkery:emptying/portal_fluid_bucket')
+    // event.recipes.create.emptying([Item.of('minecraft:glass_bottle'), Fluid.of('spelunkery:portal_fluid', 250)],
+    //     Item.of('spelunkery:portal_fluid_bottle'))
+    //     .id('spelunkery:emptying/portal_fluid_bottle')
 
     event.recipes.create.item_application(['minecraft:obsidian', 'spelunkery:portal_fluid_bottle'],
         ['minecraft:crying_obsidian', 'minecraft:dragon_breath'])
