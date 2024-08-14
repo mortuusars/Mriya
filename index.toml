@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3ae7aa4890869587c44669ffe54e6b160f29ddb4937b3566200d099f5b7afa59"
+hash = "909977cd40109755052dbc497a1bc62f05f8aebd34a1924654db492020c2b86f"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -802,7 +802,7 @@ hash = "2a5aea1d2c2d271bfeadd35fea589ec4a1cb7198e4cb4698b434a6b6f21bec18"
 
 [[files]]
 file = "kubejs/startup_scripts/constants/mriya.js"
-hash = "96398ab64282de2efe4b667cad7e40d676d9686ec3ba6b8a350a428bf2c71522"
+hash = "2f90687d7135f5747ce0cfcb038551f22316a30c0d31ccfafa6b41be5de96653"
 
 [[files]]
 file = "kubejs/startup_scripts/registry/block_registry.js"

@@ -12,6 +12,7 @@ Changes:
 - Removed 'Salt' villager trades as the items are disabled in favor of Spelunkery salt.
 - Removed some adjusted Spelunkery recipes, as they have been fixed in a new version of the mod.
     - Salt->Rock Salt mixing recipe is not default and requires heating.
+- Wine Bottles now have drinking sound and give empty bottles when consumed.
 
 ## 1.0.4 - 2024-07-22
 - Updated Exposure Catalog to fix server joining error.

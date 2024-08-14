@@ -13,14 +13,16 @@ var mriyaStartup = new function () {
 
             event.create(this.WINE_BOTTLE.id)
                 .displayName(this.WINE_BOTTLE.name)
+                .useAnimation('drink')
                 .maxStackSize(16)
                 .food(food => {
                     food
                         .hunger(1)
                         .saturation(1)
-                        .alwaysEdible()
-                        .effect('strength', 400, 0, 1);
-                });
+                        .alwaysEdible()                        
+                        .effect('strength', 400, 0, 1)
+                        .eaten(ctx => ctx.player.giveInHand('minecraft:glass_bottle'))
+                })
         }
     }
 
