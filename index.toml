@@ -758,7 +758,7 @@ hash = "337484b3ba5331584a23258364c9e05b0c0bb7d5172cfae15ab3efbe8c9df17e"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "94f4bd61a7718a73a6805edffc6f40b302a367567d823ce774f056108b4d8111"
+hash = "e1ede244fa577da9054673a3fac2e8498f1053636bdd34d85901dca563af37f7"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"

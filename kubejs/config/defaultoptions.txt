@@ -32,3 +32,14 @@ key_quark.keybind.variant_selector:key.keyboard.unknown
 key_quark.keybind.change_hotbar:key.keyboard.unknown
 
 key_key.toms_storage.open_terminal:key.keyboard.b:SHIFT
+
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.m:CONTROL
+key_key.disable_voice_chat:key.keyboard.apostrophe:CONTROL
+key_key.hide_icons:key.keyboard.h:CONTROL
+key_key.voice_chat:key.keyboard.apostrophe
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.g:CONTROL
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
