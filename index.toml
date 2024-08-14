@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "899731cf457f807075f113a0ab23056921feb717ef425e2cdd80029e912353d1"
+hash = "cc3f0120aebfc31cccb504a25ef712602acdf8f01b28d5a1413a25757fe02a4a"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -434,7 +434,7 @@ hash = "31d98899914d1b210668a40c43f1601494a5f6366561494d5b37ce0ff7031a6a"
 
 [[files]]
 file = "config/salt-common.toml"
-hash = "f356cdad178f4bbaca1b89d31fa902482160bf0ef2a42d40fb631e5db4533651"
+hash = "ec450a89485e41dfa4b9c5107901a2f6ee70b32bacf703b7c91780e5b24137d9"
 
 [[files]]
 file = "config/saturn-optimizations.toml"

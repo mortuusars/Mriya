@@ -67,5 +67,5 @@
 
 [VillagerTrades]
 	#Butcher will buy and sell Salt.
-	ButcherSaltTradesEnabled = true
+	ButcherSaltTradesEnabled = false
 

@@ -4,6 +4,11 @@
     - Embeddium++
     - Better Fps - Render Distance
 
+Changes:
+- Removed 'Salt' villager trades as the items are disabled in favor of Spelunkery salt.
+
+
+
 ## 1.0.4 - 2024-07-22
 - Updated Exposure Catalog to fix server joining error.
 
