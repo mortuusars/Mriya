@@ -1,4 +1,4 @@
-## 1.0.5 - UNRELEASED
+## 1.0.5 - 2024-08-14
 - Updated several mods.
 - Added mods:
     - Horseman
