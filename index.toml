@@ -1142,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "93f440592fc98669473274f99297921ef63a382fcf41d546973fd8ffb1d7097b"
+hash = "ce66333cbfe35f04d4f66f1ff61e1ecc9a2d7c490d436139cf7c1b139eb50379"
 metafile = true
 
 [[files]]
