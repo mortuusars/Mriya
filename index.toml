@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "91514917c696aed1ac15493518305ad471afe78919e554364efbc22e80d39589"
+hash = "05101b08f7f624cede5515629f8e49c0fdd079d5e84d539e167e47277ef1098e"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -577,26 +577,6 @@ file = "datapacks/Mriya/data/ecologics/worldgen/placed_feature/trees_walnut.json
 hash = "66942126efe1c5aa762a39b72ee0037850d9fef8afedb596f2e659cf851ce78e"
 
 [[files]]
-file = "datapacks/Mriya/data/geophilic/worldgen/placed_feature/stony_shore/moss.json"
-hash = "7288a6dd516bea863642030e29d0253c6d7e1665c6aec20bf5d43b7d7d1ee9b4"
-
-[[files]]
-file = "datapacks/Mriya/data/geophilic/worldgen/placed_feature/stony_shore/moss_block.json"
-hash = "d186fba503cb3e2f42b51a61160a1112b02c3c8d6a62d1255eb4e38388ecc9dd"
-
-[[files]]
-file = "datapacks/Mriya/data/geophilic/worldgen/placed_feature/stony_shore/small_pillars.json"
-hash = "a53ff6eaaa1b31ab16b335bc4438b97fe9a03c37e3ad56a3075186f35b76c4d0"
-
-[[files]]
-file = "datapacks/Mriya/data/geophilic/worldgen/placed_feature/stony_shore/small_stone_pillar.json"
-hash = "2eea88cb375af6c9139f559a75fbfd25c55539c1d62df82ff2a1071e175523f4"
-
-[[files]]
-file = "datapacks/Mriya/data/geophilic/worldgen/placed_feature/stony_shore/stone_pillar.json"
-hash = "1c9729bdcdf07c4db34f3aecbcef1f1136e23dd668a39b407d1e3af098d0759c"
-
-[[files]]
 file = "datapacks/Mriya/data/immersive_aircraft/aircraft/airship.json"
 hash = "d7d9b0e14c4d87c108cb7568a9ad12e0dd62703b9db1b4354ed4629bcfbf9e51"
 
@@ -852,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.pw.toml"
-hash = "a970ca6ffa0d4d985bc0bcb2e6b51c8a156e6e2a1118c924a4d5c213c9afd15c"
+hash = "21e2e296f406c441db84713ff258c3c6c645c827a901426cc120bff2f5c37e47"
 metafile = true
 
 [[files]]
@@ -862,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/astikor-carts-redux.pw.toml"
-hash = "9c55eeb7b61f7180cbd99a833b9fab5cb9121f747610f9eefd6be7361d1d0a7b"
+hash = "6d7488c03c6ce1b0f06e030bb90094d3b029ccfb01c20de674488710f8ad2891"
 metafile = true
 
 [[files]]
@@ -877,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a96886fe12b0156b383437c664125ca8989e7c972728a37e2ac36b35dcf29bec"
+hash = "89405b622819b263cefd219f7a3bbe469387884b38698e03b4fa09d7a6ce8e3f"
 metafile = true
 
 [[files]]
@@ -892,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "2a2ac57211c38debab8e03eecfe3499e8b95b3f9a5047001e16943120442c471"
+hash = "76e2ece337d702f200acf5c9aa5684375c9e0a775ea2a1460ef4b44151a6c5c2"
 metafile = true
 
 [[files]]
@@ -932,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cc3328e6b0892ef1671863a4df0112d70ff3bcb5c378134a60f28b547dc49729"
+hash = "e08eb9e4bbf016681cdea87387b7cd4d3f17dfff5d433f50ad872ab6f17b29c9"
 metafile = true
 
 [[files]]
@@ -982,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "a678f13d916475b068db2d6ee53e58713f2eb8bebf7cd728c52c45107596f08a"
+hash = "2e0891926994e72a64688443122796c1800c954e3ba1a779ace81c7f8ec6547d"
 metafile = true
 
 [[files]]
@@ -997,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
+hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
 metafile = true
 
 [[files]]
@@ -1067,17 +1047,17 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "148fbd8467ce47f2919067c08a402c7fca59caa330f5253a760a2309f0aed6c0"
+hash = "10efddc4dee36b3286d0481e2994da7eac00492d87d1aed131065997bfe80c18"
 metafile = true
 
 [[files]]
 file = "mods/exposure-catalog.pw.toml"
-hash = "33a80e2242a685671521199df5460fe24c95ae319b7119c26fd11de5177645b4"
+hash = "b666e72246a553d549c4e3c6e0d1eb44547be0a9dcc8a1f10e87c8d004ec05ff"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "b00f8f5c8dacdfe326732b81adf44ee0c5d9d461e1a41ad552cb61ecde108791"
+hash = "40957d154f6fdedac034bf32bca6299b29d270532fcc5468e52e8ef8c741bb94"
 metafile = true
 
 [[files]]
@@ -1127,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "8c2a3142935a5a338027609dd824b7026f793e57a54f5564fc4c9fbf33fb521e"
+hash = "7e862d8a8716e79a389edc6e45e8126cef8aed3821c580bd6b5056a515078c2a"
 metafile = true
 
 [[files]]
@@ -1172,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+hash = "0168bb4b630667a0ec54738727619da4b81f9d84ec92501269bc8fb847ed2e9a"
 metafile = true
 
 [[files]]
@@ -1182,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
+hash = "5110832a1de5b6f305960cc4e6d1276f680407b196af72485cc6d38cc19f570a"
 metafile = true
 
 [[files]]
@@ -1217,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "988c14c1f21cd9bb29463da59a3ea67b8307bc88cc2bbaac35000acb6a2bb8c5"
+hash = "9dd77e0e4b8cfd147b1c2d9ae6ec26cde0333b2998b861d9ddad39a3f191054d"
 metafile = true
 
 [[files]]
@@ -1227,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
-hash = "514111f6cbd2618c5360f7bf4a8f130bd0c266ea59583b91e2a4734a1657807e"
+hash = "d298ebe7356f5a8250f57d998547e7908e0af9eebf0b6dd5049b3f2342db2ac7"
 metafile = true
 
 [[files]]
@@ -1247,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
+hash = "b9c03eeef85a050a626770dee002377099248b5a33ece835a162163ca8d443df"
 metafile = true
 
 [[files]]
@@ -1317,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
+hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
 metafile = true
 
 [[files]]
@@ -1372,7 +1352,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "84298e5c4783b70dd8ea6abdda79b67b12a584f7420f6e72bbb5f91ea7875b35"
+hash = "5627608f70bf204cce10dfd16a05c8bf3ca689eb89c689e10b5fc48c9effe1f0"
 metafile = true
 
 [[files]]
@@ -1402,7 +1382,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "ed249a540b8e379505d5f21b9ae6b826252bfe28bcbddd4a861e5e92bb911fd0"
+hash = "ab8002c1a41bf688351e59753ec1e437ac76fb5d71aaa49bf2e450f8d9a63153"
 metafile = true
 
 [[files]]
@@ -1412,12 +1392,12 @@ metafile = true
 
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
-hash = "001cb52be89fa34e076d7d02624baf83a2dcfaa93e2587923aeddbea8d2a3bd4"
+hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
 metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
-hash = "ce92a2870c50085508caf9b680efffdfdd50b54e240e7bf047b6833c66ac139e"
+hash = "b23614f126b6ad58ccc18d45c547d2e7357da867ff1a45f63e3dcb246f3a87f4"
 metafile = true
 
 [[files]]
@@ -1442,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
-hash = "ad6b7c1e84ff4fa28658862544431c88deb5bd25aff91684f4871ba148968eb7"
+hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
@@ -1462,7 +1442,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "a6c6913cce90a477582c632ec246f90c917fbf97da4129e78bf408b060e01f89"
+hash = "718ec3f4126f8e520dac17aa2e0644e5bb8f870b0de2d20fa682a56b07876484"
 metafile = true
 
 [[files]]
@@ -1522,7 +1502,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
+hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
 
 [[files]]
@@ -1701,4 +1681,4 @@ metafile = true
 
 [[files]]
 file = "version.txt"
-hash = "20d2cb096d1ab41a4140246d12f07bf6b8cb743fd48122b72532c03d44c5c14a"
+hash = "aea5adbef574785273c4f39c1b7687cf801993e0cb6bf6781a41689e4edbb20c"
