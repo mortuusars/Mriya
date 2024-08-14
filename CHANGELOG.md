@@ -1,8 +1,12 @@
 ## 1.0.5 - UNRELEASED
 - Updated several mods.
 - Added mods:
+    - Horseman
+    - Create: Pattern Schematics
+    - Simple Voice Chat
     - Embeddium++
     - Better Fps - Render Distance
+
 
 Changes:
 - Removed 'Salt' villager trades as the items are disabled in favor of Spelunkery salt.

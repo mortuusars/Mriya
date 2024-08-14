@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d37f64bf20a9cc19ba370681035d320c74c1a657921bfc737af4de7e908bd850"
+hash = "3ae7aa4890869587c44669ffe54e6b160f29ddb4937b3566200d099f5b7afa59"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -1001,6 +1001,11 @@ hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "1af5eb0226aaf1ba1cdc5558352877161213a3ddb9074c72d811e7dddbfd17b9"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "df7d19f604ff0661692e1dd14ea4d70d534bd960e536acb9a693b1ec7792433b"
 metafile = true
@@ -1133,6 +1138,11 @@ metafile = true
 [[files]]
 file = "mods/heyberryshutup.pw.toml"
 hash = "97a18e9252a5cbd90ff324ec98a3ce39bf8c9f8c139c4a3fe3112a241413096d"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "93f440592fc98669473274f99297921ef63a382fcf41d546973fd8ffb1d7097b"
 metafile = true
 
 [[files]]
@@ -1368,6 +1378,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "986e846f6f2d007d441bd76f4b768e36c7e18ac531c4edbfea7f22375242a88e"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4c9fe1c48de2de8501a443b7099b2e4d2a8a45f0e364ddffe7bebda145d0e987"
 metafile = true
 
 [[files]]
