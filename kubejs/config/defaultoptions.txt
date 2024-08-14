@@ -30,3 +30,5 @@ key_key.jade.show_overlay:key.keyboard.left.shift
 key_quark.keybind.camera_mode:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.unknown
 key_quark.keybind.change_hotbar:key.keyboard.unknown
+
+key_key.toms_storage.open_terminal:key.keyboard.b:SHIFT

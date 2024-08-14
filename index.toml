@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "297533c744994deff2fa2e6991f05caf3d3d27efbb5032e8ee739448938f0bc4"
+hash = "99c9d173e44254fc8c8a0c2fbd0f38a43a257beb057bff104de982b421c75b85"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -171,6 +171,10 @@ hash = "ebef7ec7d0d4a468aa593a89e00aef28aac10de45e017e88ac76b3b60ca9993b"
 [[files]]
 file = "config/ecologics-common.toml"
 hash = "adc6954cdda54a4ffd22dad703c43ec38db7ec6e5e24652d6a489816168f240b"
+
+[[files]]
+file = "config/embeddium++.toml"
+hash = "9d0047504a399723268d9946107830f1b41f52ee5d611cdd16a42de6ec3bd365"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
@@ -754,7 +758,7 @@ hash = "337484b3ba5331584a23258364c9e05b0c0bb7d5172cfae15ab3efbe8c9df17e"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "71a8fc46a16c23cecdd01e0d25575caa8d363c516029e6159d96c7836b67f908"
+hash = "94f4bd61a7718a73a6805edffc6f40b302a367567d823ce774f056108b4d8111"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
