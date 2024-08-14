@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "909977cd40109755052dbc497a1bc62f05f8aebd34a1924654db492020c2b86f"
+hash = "297533c744994deff2fa2e6991f05caf3d3d27efbb5032e8ee739448938f0bc4"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -623,6 +623,10 @@ hash = "244e04de13c7f254db8adaaa434069bf71d27ee1fd837bbcb9f7b9640d182970"
 [[files]]
 file = "datapacks/Mriya/data/minecraft/worldgen/template_pool/village/taiga/town_centers.json"
 hash = "bf2e4708b6f50afec495aeb5ee0615c31bb73710a00358264cce59a750c02eff"
+
+[[files]]
+file = "datapacks/Mriya/data/mriya/curios/slots/belt.json"
+hash = "cd7ad0f466a989d2f58e940d83fbfd503d022b19b721679ab2e4407a447770c5"
 
 [[files]]
 file = "datapacks/Mriya/data/mriya/loot_tables/seashell.json"
