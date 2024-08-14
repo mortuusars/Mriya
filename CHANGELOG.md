@@ -1,3 +1,9 @@
+## 1.0.5 - UNRELEASED
+- Updated several mods.
+- Added mods:
+    - Embeddium++
+    - Better Fps - Render Distance
+
 ## 1.0.4 - 2024-07-22
 - Updated Exposure Catalog to fix server joining error.
 

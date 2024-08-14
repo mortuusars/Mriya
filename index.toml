@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "05101b08f7f624cede5515629f8e49c0fdd079d5e84d539e167e47277ef1098e"
+hash = "899731cf457f807075f113a0ab23056921feb717ef425e2cdd80029e912353d1"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -871,6 +871,11 @@ hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "70cb54081f56a748b298a87d1825bac70405d4b4a28c4a4f18228691930baa34"
+metafile = true
+
+[[files]]
 file = "mods/biome-music.pw.toml"
 hash = "76e2ece337d702f200acf5c9aa5684375c9e0a775ea2a1460ef4b44151a6c5c2"
 metafile = true
@@ -1048,6 +1053,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "10efddc4dee36b3286d0481e2994da7eac00492d87d1aed131065997bfe80c18"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "3f7d7e961be44b270240e6d8b6b7359027a0de4cd5bbef2ff66db2a67b4ac891"
 metafile = true
 
 [[files]]
