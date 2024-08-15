@@ -1,3 +1,11 @@
+# Changelog
+
+## 1.0.7
+- Added mods:
+    - FTB Backups 2
+
+- Updated Horseman to 1.0.2 (fix log spam).
+
 ## 1.0.6 - 2024-08-14
 - Changed default keybinds of Simple Voice Chat
 

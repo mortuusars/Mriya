@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5c03700b1250635592418f254350b398e543e9ea77de4a8c0facd39b9d143dc0"
+hash = "01dfbc37b2e3f1c621244e9ad3120f2a8c76f91c255e7d2bb9ec9eadff00976e"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -307,6 +307,10 @@ hash = "b20ef85e6bc649242787cf7a6c786d399445ed991d2d94974c961a7a2c23ee16"
 [[files]]
 file = "config/forge-client.toml"
 hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
+file = "config/ftbbackups2.json"
+hash = "a20832c6b4ea8375081f325313921a5c881d892d9d1b9ab27d3863053e414c81"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -1124,6 +1128,11 @@ hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
 metafile = true
@@ -1150,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "ce66333cbfe35f04d4f66f1ff61e1ecc9a2d7c490d436139cf7c1b139eb50379"
+hash = "bf741e4af583f67583e1e5e3d7e40a7b46ed3d9b120ec11c5db9f80f0858b7db"
 metafile = true
 
 [[files]]
@@ -1301,6 +1310,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true
 
 [[files]]
@@ -1714,4 +1728,4 @@ metafile = true
 
 [[files]]
 file = "version.txt"
-hash = "e1cb79b8bbad0d3924995d2e16971fe3440ce2464d59d88604925c0d6b0b6c5d"
+hash = "e9f981f1154c92381d63b653cfbfc79be92c3f6cc95e0915a5e5c19f3924ca58"
