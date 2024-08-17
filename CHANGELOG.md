@@ -1,6 +1,9 @@
 # Changelog
 
-## 1.0.7
+## Unreleased
+- Changed FTB Backups backup interval from 30 min to 60 min.
+
+## 1.0.7 - 2024-08-15
 - Added mods:
     - FTB Backups 2
 

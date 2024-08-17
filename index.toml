@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "01dfbc37b2e3f1c621244e9ad3120f2a8c76f91c255e7d2bb9ec9eadff00976e"
+hash = "5275d3b5eb6d692150b74a4feab78f84957a4150ef8f6183f6c3881464b25a0c"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -310,7 +310,7 @@ hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 
 [[files]]
 file = "config/ftbbackups2.json"
-hash = "a20832c6b4ea8375081f325313921a5c881d892d9d1b9ab27d3863053e414c81"
+hash = "905e043519d92ada18453da2235fc71ce00b715f0ddf7393ebaef55efaf13941"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
