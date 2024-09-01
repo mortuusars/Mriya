@@ -33,11 +33,6 @@ jei.items.hidden = [
     'spelunkery:rough_lazurite',
     'spelunkery:rough_emerald',
     'spelunkery:rough_diamond',
-    // 'spelunkery:saltpeter_block',
-    // 'spelunkery:saltpeter',
-
-    // /upgrade_aquatic:.+bedroll/,
-    // 'upgrade_aquatic:bedroll',
 
     'quark:potato_crate',
     'quark:carrot_crate',
@@ -61,15 +56,6 @@ jei.recipes.hidden = [
     {
         category: 'minecraft:crafting',
         recipes_by_id: [
-            // 'supplementaries:soap_clean_upgrade_aquatic_bedroll'
-        ]
-    },
-    {
-        category: 'minecraft:anvil',
-        recipes_by_id: [
-            'minecraft:enchantment.spelunkery.obsidian_hammer_and_chisel',
-            'minecraft:enchantment.spelunkery.obsidian_hammer_and_chisel',
-            'minecraft:enchantment.spelunkery.obsidian_hammer_and_chisel',
             // 'supplementaries:soap_clean_upgrade_aquatic_bedroll'
         ]
     }

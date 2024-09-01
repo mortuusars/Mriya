@@ -163,8 +163,11 @@ function miscRecipes(event) {
         B: 'mriya:wine_bottle'
       }).id('mriya:wine_bottle_crate')
 
+    event.shapeless('9x mriya:wine_bottle', ['mriya:wine_bottle_crate'])
+        .id('mriya:wine_bottles_from_crate')
 
-      event.shaped('decorative_blocks:lattice', [
+
+    event.shaped('decorative_blocks:lattice', [
         ' S ',
         'SSS',
         ' S '

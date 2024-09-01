@@ -75,11 +75,5 @@ ServerEvents.recipes(event => {
     event.recipes.createEmptying(['minecraft:glass_bottle', Fluid.of('mriya:wine', 250)], 'mriya:wine_bottle')
         .id('mriya:emptying/wine_bottle')
 
-    // event.recipes.create.mixing(['spelunkery:rock_salt'], ['2x spelunkery:salt', Fluid.of('minecraft:water', 500)])
-    //     .id('spelunkery:mixing/rock_salt')
-    // event.recipes.create.mixing(['spelunkery:salt'], ['minecraft:pointed_dripstone', Fluid.of('minecraft:water', 500)])
-    //     .heated()
-    //     .id('spelunkery:mixing/salt')
-
     event.recipes.create.milling(['spelunkery:cinnabar', Item.of('minecraft:redstone').withChance(0.5)], ['#forge:ores/redstone'])
 })

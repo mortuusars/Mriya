@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "dc4ff099af0f2c395443f0aafd60567557ae8aca2200b8ac21c3fa26e82a0920"
+hash = "d61995a6fe2b58442c5943f4124f1ece395655ea10fc407796bd80ff1966d838"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -726,7 +726,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/client_scripts/constants/jei_content.js"
-hash = "6c24947c3d18379e76d24282ba7e9fa7c205f68442f509d81f706561c90f5b3c"
+hash = "68b860d5f274fc585bd92b1daea2746c428a88b104b85193a0629415ae40fbea"
 
 [[files]]
 file = "kubejs/client_scripts/interaction.js"
@@ -806,7 +806,7 @@ hash = "f7260c3450ed10a8fab27414701fe609f8abb8cafad8ef696aeda8077f519e3e"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/recipes.js"
-hash = "57f323bb6b551b7301ab71dd2db0a7c42f6f18b3fd402489e59801b22b4227a4"
+hash = "e201bab5c0f0bf14435273c37394302a8bf032be860ae8659b758aee93918123"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/removed_recipes.js"

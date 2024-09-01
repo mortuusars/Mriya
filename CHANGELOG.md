@@ -4,10 +4,11 @@
 - Updated Forge version 47.3.0 -> 47.3.6.
 - Updated mods.
 - Changed FTB Backups backup interval from 30 min to 60 min.
-- Reenabled Wall-Jump enchantments since they are not removed from loot and enchanting table properly when disabled.
+- Reenabled Wall-Jump enchantments since they are not removed from loot and enchanting table properly when disabled and still obtainable.
 - Increased Create train track placement range 32 -> 64. Allows for smoother curves.
 - Fixed Budding Amethyst being movable with CarryOn.
 - Disabled Spelunkery Chisels. They can dupe some of the blocks and are buggy overall.
+- Fixed Wine Bottle Crate to 9 Wine Bottles recipe missing.
 
 
 ## 1.0.7 - 2024-08-15
