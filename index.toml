@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d61995a6fe2b58442c5943f4124f1ece395655ea10fc407796bd80ff1966d838"
+hash = "648da212af23812bc850be24efc64e397af666c360a4fa7f174af29f7ee77bea"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -790,7 +790,7 @@ hash = "e37c6c407e5db014ad925f74fcc57b7ec3cf4599247bf555b383e997c47aed39"
 
 [[files]]
 file = "kubejs/server_scripts/create/create_recipes.js"
-hash = "43087723eb5216c94700baedf8925832162ea7e3c6d2e6ea2935266933e5b2ca"
+hash = "1773fba6e0a5c2ce19f5e3c5d88b46b95a34c6c43be8b7d051950a9cf134093a"
 
 [[files]]
 file = "kubejs/server_scripts/interaction/interaction.js"
@@ -806,7 +806,7 @@ hash = "f7260c3450ed10a8fab27414701fe609f8abb8cafad8ef696aeda8077f519e3e"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/recipes.js"
-hash = "e201bab5c0f0bf14435273c37394302a8bf032be860ae8659b758aee93918123"
+hash = "952f0db76ae666a2f58904a997e9dcc1f47504e5e8ee749a65fe177d229fd680"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/removed_recipes.js"
@@ -1207,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4cdca7d5407336a4e2e9cf6276ed3b28fe3931021562a09e332033f8e0420804"
+hash = "807eb053301bfd2e3e2e739125dd159cf335f9b3b86fd4debe4c841d212393e1"
 metafile = true
 
 [[files]]
