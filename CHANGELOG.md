@@ -7,6 +7,8 @@
 - Reenabled Wall-Jump enchantments since they are not removed from loot and enchanting table properly when disabled.
 - Increased Create train track placement range 32 -> 64. Allows for smoother curves.
 - Fixed Budding Amethyst being movable with CarryOn.
+- Disabled Spelunkery Chisels. They can dupe some of the blocks and are buggy overall.
+
 
 ## 1.0.7 - 2024-08-15
 - Added mods:

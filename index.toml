@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "c6f67c75dcc6a2bc1ba2477fa27f5089149e6e998f0f488a1f6f86112b4cb6f2"
+hash = "dc4ff099af0f2c395443f0aafd60567557ae8aca2200b8ac21c3fa26e82a0920"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -726,11 +726,11 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/client_scripts/constants/jei_content.js"
-hash = "ea09dacbd18b3c965cfc8dd439748083738e487b3641a51cce1377ed5466dab2"
+hash = "6c24947c3d18379e76d24282ba7e9fa7c205f68442f509d81f706561c90f5b3c"
 
 [[files]]
 file = "kubejs/client_scripts/interaction.js"
-hash = "559f2e2394236462977f89f9e1959befd2a7910f2067c8f76f600b857150f912"
+hash = "fdfd5a9899045d4ba84822a06c78dbe554fdb637b56a7d33735bf6597f85703e"
 
 [[files]]
 file = "kubejs/client_scripts/jei/jei_add_items.js"
@@ -739,6 +739,10 @@ hash = "852afbbf0700b0e353a7e642288b304f592b88c98014c26e0a3d6302358f0a26"
 [[files]]
 file = "kubejs/client_scripts/jei/jei_categories.js"
 hash = "d946a3cfd6762dbfb9d03f852340b0e5de6c11ca61c1cf8a0b715aef61609561"
+
+[[files]]
+file = "kubejs/client_scripts/jei/jei_events.js"
+hash = "dc9b62c306909b389626e4af0b749c33f4a7b8d6a471bc6742a0ce005552afde"
 
 [[files]]
 file = "kubejs/client_scripts/jei/jei_hide_fluids.js"
@@ -790,7 +794,7 @@ hash = "43087723eb5216c94700baedf8925832162ea7e3c6d2e6ea2935266933e5b2ca"
 
 [[files]]
 file = "kubejs/server_scripts/interaction/interaction.js"
-hash = "7829205b085704386ae86c612482c3ba632f9832c017a88a77da6c9fb98bf327"
+hash = "a2787d8b216881bdcc84935779f544b3e41fc36c9a79369121498fbb83232a69"
 
 [[files]]
 file = "kubejs/server_scripts/loot/add_loot_tables.js"
@@ -806,7 +810,7 @@ hash = "57f323bb6b551b7301ab71dd2db0a7c42f6f18b3fd402489e59801b22b4227a4"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/removed_recipes.js"
-hash = "2e95e5c47b2bbb0d0d565a5ee06791140f8097109834084271385311aa77c5b8"
+hash = "6bbb39606c57e6cca17df9398ba6baf1748c310e12a41bb3620d479cf497e9f4"
 
 [[files]]
 file = "kubejs/server_scripts/recipe/toms_storage.js"

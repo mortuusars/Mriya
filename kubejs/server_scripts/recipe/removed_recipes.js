@@ -9,6 +9,8 @@ RemovedRecipes.ById = [
     'spelunkery:mixing/portal_fluid',
     'spelunkery:raw_zinc',
     'spelunkery:raw_zinc_nugget',
+    'spelunkery:flint_hammer_and_chisel',
+    'spelunkery:obsidian_hammer_and_chisel',
     // 'spelunkery:saltpeter_block',
     // 'spelunkery:bone_meal',
     // 'spelunkery:saltpeter_from_block',

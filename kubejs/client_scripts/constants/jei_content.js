@@ -13,7 +13,10 @@ jei.items.disabled = [
     /salt:.*/,
 
     'supplementaries:altimeter',
-    'toms_storage:ts.wireless_terminal'
+    'toms_storage:ts.wireless_terminal',
+
+    'spelunkery:flint_hammer_and_chisel',
+    'spelunkery:obsidian_hammer_and_chisel'
 ];
 
 jei.items.hidden = [
@@ -58,6 +61,15 @@ jei.recipes.hidden = [
     {
         category: 'minecraft:crafting',
         recipes_by_id: [
+            // 'supplementaries:soap_clean_upgrade_aquatic_bedroll'
+        ]
+    },
+    {
+        category: 'minecraft:anvil',
+        recipes_by_id: [
+            'minecraft:enchantment.spelunkery.obsidian_hammer_and_chisel',
+            'minecraft:enchantment.spelunkery.obsidian_hammer_and_chisel',
+            'minecraft:enchantment.spelunkery.obsidian_hammer_and_chisel',
             // 'supplementaries:soap_clean_upgrade_aquatic_bedroll'
         ]
     }

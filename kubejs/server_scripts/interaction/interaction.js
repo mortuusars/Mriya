@@ -13,6 +13,10 @@ ItemEvents.rightClicked(event => {
         event.success()
         return;
     }
+
+    if (event.item.getId() == 'spelunkery:flint_hammer_and_chisel' || event.item.getId() == 'spelunkery:obsidian_hammer_and_chisel') {
+        event.success()
+    }
 })
 
 BlockEvents.rightClicked(event => {
