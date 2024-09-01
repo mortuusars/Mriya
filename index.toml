@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "296f30222a67194588d4610e61c62c12a16ae4f73eaa229e88051300e682753e"
+hash = "c6f67c75dcc6a2bc1ba2477fa27f5089149e6e998f0f488a1f6f86112b4cb6f2"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -86,7 +86,7 @@ hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "82f675591ecda8bc6ab3a6ce496893eb7ba6ec64ab7525e961b9408d7d0411ad"
+hash = "58a52523f941dff7e430c64d5624212ddd7beb257f09af4618bed667e13037d5"
 
 [[files]]
 file = "config/cat_loaf.json"
@@ -699,6 +699,10 @@ hash = "842a3d9625a3a2b1631950d11b79e0ac09e0b77e0f35f86159ddf23cdb0501e6"
 [[files]]
 file = "defaultconfigs/corpse-server.toml"
 hash = "727c4b15afe35da9d42602fdc58e4d64918e0ab9a13852bc9a1c477ff8bde912"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "9779c86313a4801b610ead1c6b81fd157e560344103ed8eeda41850916dd2588"
 
 [[files]]
 file = "defaultconfigs/fastleafdecay-server.toml"

@@ -5,6 +5,8 @@
 - Updated mods.
 - Changed FTB Backups backup interval from 30 min to 60 min.
 - Reenabled Wall-Jump enchantments since they are not removed from loot and enchanting table properly when disabled.
+- Increased Create train track placement range 32 -> 64. Allows for smoother curves.
+- Fixed Budding Amethyst being movable with CarryOn.
 
 ## 1.0.7 - 2024-08-15
 - Added mods:
