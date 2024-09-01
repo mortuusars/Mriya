@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5275d3b5eb6d692150b74a4feab78f84957a4150ef8f6183f6c3881464b25a0c"
+hash = "296f30222a67194588d4610e61c62c12a16ae4f73eaa229e88051300e682753e"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -538,7 +538,7 @@ hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
 file = "config/walljump.json"
-hash = "8a8f2349dd49884d927e54597a57aaffd7115cc310c2d8d0fd4ad8d50d9a81e3"
+hash = "a5eea5edf3088cc5f615784f0ebff54bc8079dd2d9c99f950796dcd23833eb1c"
 
 [[files]]
 file = "config/wares-client.toml"

@@ -1,9 +1,9 @@
 {
   "allowReClinging": false,
   "autoRotation": false,
-  "enableEnchantments": false,
+  "enableEnchantments": true,
   "exhaustionWallJump": 0.8,
-  "minFallDistance": 3,
+  "minFallDistance": 3.5,
   "elytraSpeedBoost": 0.0,
   "sprintSpeedBoost": 0.0,
   "stepAssist": true,
